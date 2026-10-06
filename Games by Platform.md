@@ -1,0 +1,3935 @@
+# My Games by Platform
+
+> Generated on 2026-10-06.
+> Total: 3891 games across 11 platforms.
+
+## PC (190)
+
+- A Plague Tale - Innocence
+- A Plague Tale - Requiem
+- Alan Wake
+- Alien Isolation
+- Aliens vs Predator
+- Assassins Creed
+- Assassins Creed Brotherhood
+- Assassins Creed II
+- Assassins Creed III
+- Assassins Creed IV Black Flag
+- Assassins Creed Revelations
+- Assassins Creed Rogue
+- Batman Arkham Asylum GOTY
+- Batman Arkham City GOTY
+- Batman Arkham Knight
+- Batman Arkham Origins
+- Battlefield 1
+- Battlefield Bad Company 2
+- BioShock 2 Remastered
+- BioShock Infinite
+- BioShock Remastered
+- Black Mesa
+- Blur
+- Brothers in Arms Earned in Blood
+- Brothers in Arms Hells Highway
+- Brothers in Arms Road to Hill 30
+- Burnout Fairhaven
+- Burnout Paradise Remastered
+- Call Of Duty - Black Ops
+- Call of Duty - Black Ops 2
+- Call of Duty - Ghosts
+- Call of Duty - Modern Warfare Remastered
+- Call of Duty Modern Warfare 2
+- Call of Duty Modern Warfare 3
+- Call Of Duty World At War
+- Call of Juarez
+- Call oF Juarez Gunslinger
+- CARRION
+- Chernobylite
+- Chicken Invaders 2
+- Chicken Invaders 5
+- Claw
+- Cold Fear
+- Condemned - Criminal Origins
+- CONTROL - Ultimate Edition
+- Crash Bandicoot N Sane Trilogy
+- Crazy Taxi 3
+- Cronos The New Dawn
+- Crysis
+- Crysis 2 Remastered
+- Crysis 3 Remastered
+- Dangerous Golf
+- Dark Souls II Scholar of the First Sin
+- Dark Souls III The Ringed City
+- Dead Rising
+- Dead Rising 2 Off The Record
+- Destroy All Humans
+- Detroit - Become Human
+- Deus Ex Human Revolution
+- Devil May Cry 4 Special Edition
+- Devil May Cry 5
+- Dirt 2
+- DiRT 3 Complete Edition
+- DmC - Devil May Cry
+- DOOM 3 BFG
+- Driver San Francisco
+- ELDEN RING
+- ENSLAVED Odyssey to the West Premium Edition
+- F.E.A.R. 2
+- F.E.A.R. Platinum Collection
+- Fallout New Vegas Ultimate Edition
+- Far Cry 3
+- FlatOut
+- Freedom Fighters
+- Ghost of Tsushima DC
+- Ghostbusters - Remastered
+- Grand Theft Auto - Vice City (Community Remaster)
+- Grand Theft Auto III (Delatom's Remaster)
+- Grand Theft Auto IV
+- GRID 2
+- Gun
+- Halo - The Master Chief Collection
+- Hatred
+- Hi-Fi RUSH
+- Hitman 3
+- Hotline Miami
+- It Takes Two
+- James Bond Blood Stone
+- Jazz Jackrabit 2 - The Secret Files
+- Jet Set Radio
+- Kingdom Hearts HD 1.5 + 2.5 ReMIX
+- L.A.Noire
+- Mafia - Definitive Edition
+- Mafia II
+- Manhunt
+- Manhunt 2 Uncut Edition
+- Marc Ecko's Getting Up - Contents Under Pressure
+- Max Payne
+- Max Payne 2
+- Max Payne 3
+- MDK 2 HD
+- Medal of Honor
+- Medal of Honor Airborne
+- Medal of Honor Warfighter
+- Metal Gear Rising Revengeance
+- Metro Last Light Redux
+- Middle-Earth - Shadow of Mordor
+- Mirror's Edge
+- Need for Speed - Hot Pursuit Challenges
+- Need for Speed - Hot Pursuit Remastered
+- Need For Speed II SE
+- Need for Speed ProStreet
+- Need for Speed Rivals
+- Need For Speed Shift 2 Unleashed
+- Need for Speed The Run
+- Need For Speed Underground Redux
+- NiGHTS Into Dreams
+- Nioh 2 - Complete Edition
+- Nioh Complete Edition
+- Okami HD
+- Onimusha 2 - Samurai's Destiny
+- Ori and the Blind Forest - Definitive Edition
+- Ori and the Will of the Wisps
+- PAC-MAN WORLD Re-PAC
+- Portal 2
+- Prey
+- Prey 2006
+- Project CARS 2
+- Prototype
+- Prototype 2 - Radnet Edition
+- Quantum Break
+- Race Driver - GRID
+- Red Dead Redemption
+- Red Dead Redemption 2
+- Red Faction Guerrilla Re-Mars-tered
+- Remember Me
+- Resident Evil - Revelations 2
+- Resident Evil 0 HD Remaster
+- Resident Evil 2 Remake
+- Resident Evil 4 HD Project
+- Resident Evil 5 - Gold Edition
+- Resident Evil 7 - Biohazard
+- Resident Evil HD
+- Return to Castle Wolfenstein
+- Rise of the Tomb Raider 20 Year Celebration
+- S.T.A.L.K.E.R. Anamoly
+- Sackboy A Big Adventure
+- Scorn
+- Sekiro Shadows Die Twice GOTY Edition v1.06
+- Shadow of the Tomb Raider
+- Silent Hill 2
+- Singularity
+- Sleeping Dogs DE
+- Slender - The Arrival
+- Sonic Adventure
+- Sonic Adventure 2  Battle
+- Sonic and All-Stars Racing Transformed Collection
+- Sonic Frontiers
+- Sonic Generations
+- Sonic Unleashed
+- Spec Ops - The Line
+- Spider-Man - Shattered Dimensions
+- Spider-man Remastered
+- Spider-Man Web of Shadows
+- Spyro Reignited Trilogy
+- Stranglehold
+- Stray
+- Styx Master of Shadows
+- Styx Shards of Darkness
+- Subnautica
+- Super Meat Boy
+- SUPERHOT MIND CONTROL DELETE
+- The Chronicles of Riddick Assault on Dark Athena
+- The Evil Within
+- The Saboteur
+- Thief 2
+- Thief Gold
+- TMNT - Shredder's Revenge
+- Tom Clancys Splinter Cell Blacklist
+- Tomb Raider
+- Tony Hawk's Pro Skater 1 + 2
+- Total Overdose
+- Transformers - Fall of Cybertron
+- Transformers - War for Cybertron
+- Ultimate Spiderman
+- UNCHARTED - Legacy of Thieves Collection
+- Watch Dogs
+- Way Out
+- Wolfenstein
+- Wreckfest
+
+## Xbox 360 (5)
+
+- Forza Horizon
+- GE 007 TM Reloaded
+- Gears of War 2
+- Gears of War 3
+- UFC Undisputted III
+
+
+## Nintendo Switch (2)
+
+- Metroid Prime Remastered
+- Super Mario Odessy
+
+## Nintendo Wii (1)
+
+- Sonic Riders - Zero Gravity (USA) (En,Ja,Fr,De,Es,It)
+
+## PlayStation 2 (20)
+
+- Burnout 3 - Takedown (USA)
+- Burnout Revenge
+- Def Jam - Fight for NY
+- Devil May Cry
+- Devil May Cry 3 - Dante's Awakening (Special Edition)
+- Dirge of Cerberus International
+- Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It)
+- Gran Turismo Concept - 2002 (EU)
+- Grand Theft Auto - Liberty City Stories (USA)
+- Grand Theft Auto - Vice City Stories (USA)
+- Midnight Club 3 - DUB Edition Remix (Restored Soundtrack)
+- Need for Speed - Hot Pursuit 2 (USA)
+- Onimusha 3 - Demon Siege (USA)
+- Shin Onimusha Dawn of Dreams (Disc 1)
+- Shin Onimusha Dawn of Dreams (Disc 2)
+- Sly 2 - Band of Thieves (USA)
+- Sly 3 - Honor Among Thieves (USA)
+- Sly Cooper and the Thievius Raccoonus (USA)
+- SSX Tricky
+- Tokyo Xtreme Racer - Drift 2
+
+## PlayStation 3 (3)
+
+- Ridge Racer 7
+- Skate
+- WWE 2K14
+
+## Nintendo GameCube (6)
+
+- Pikmin (USA) (Rev 1)
+- Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It)
+- SSX On Tour (USA)
+- Super Mario Sunshine
+- WWE Day of Reckoning (USA) (Rev 1)
+- WWE Day of Reckoning 2 (USA)
+
+
+## Amiga (1583)
+
+- 1000 Miglia
+- 1000cc Turbo
+- 1497 - Five Years After
+- 1943 - The Battle of Midway
+- 1st Division Manager
+- 3001 - O'Connors Fight
+- 3D Galax
+- 3D Pool
+- 3D World Boxing
+- 3D World Tennis
+- 4-Get-It
+- 4-Way Lynx
+- 4th & Inches
+- 4x4 Off-Road Racing
+- 5th Gear
+- 688 Attack Sub
+- 7 Colors
+- 9 Lives
+- A320 Airbus
+- Aaargh!
+- Above Top Secret
+- Abu Simbel Profanation
+- Abyss
+- ABZoo
+- Accordion
+- Ace the Space-Case
+- Action Fighter
+- Addams Family, The
+- Adrenalynn
+- ADS - Advanced Destroyer Simulator
+- Advanced Ski Simulator
+- Advantage Tennis
+- Adventures of Quik & Silva, The
+- Adventures of Robin Hood, The
+- After Burner (Sega)
+- After the War
+- Airball
+- Airborne Ranger
+- Alfred Chicken
+- Alien Bash
+- Alien Breed (Intro)
+- Alien Fish Finger
+- Alien Storm
+- Alien Syndrome
+- Alpha Waves
+- Alpha-1
+- Amazed
+- Amegas
+- American History Adventure
+- American Tag-Team Wrestling
+- Amiga Karate
+- Amiga Poker
+- Anarchy
+- Ancient Games
+- Animal Kingdom
+- Answer Back - Junior Quiz
+- Answer Back - Senior Quiz
+- Antago
+- Apache
+- Apprentice
+- Aquatic Games, The - Starring James Pond and the Aquabats
+- Arazmax
+- Arazok's Tomb
+- Arcade Fruit Machine
+- Arcade Pool (OCS & AGA)
+- Archer Maclean's Pool
+- Arena 2000
+- Arkanoid
+- Arkanoid - Revenge of Doh
+- Armada
+- Armageddon Man, The
+- Arnhem - The 'Market Garden' Operation
+- Arnie
+- Arthur - The Quest for Excalibur
+- Ask Me Another
+- ATF II - Advanced Tactical Fighter II
+- Atomino
+- Atomix
+- Austerlitz
+- Aventures de Moktar, Les
+- Axel's Magic Hammer
+- Baal
+- Baby Bug
+- Baby Jo in 'Going Home'
+- Back to the Future Part II
+- Backgammon
+- Backgammon Royale
+- Backlash
+- Backstage
+- Bad Dudes vs. Dragon Ninja
+- Bad Vibes
+- BadLands
+- Badlands Pete
+- Bagitman
+- Bahnhof
+- Balance of Power - The 1990 Edition
+- Ball Game, The
+- Ball Raider
+- Ball Raider II
+- Ballistix
+- Balloonacy
+- Balls
+- Ballyhoo
+- Bambinours Solves a Jig Saw
+- Bangboo
+- Bank Buster
+- Barbarian
+- Barbarian - The Ultimate Warrior
+- Barney Mouse
+- Base Jumpers
+- Batman - The Caped Crusader
+- Battle Chess
+- Battle for the Ashes
+- Battle Squadron - The Destruction of the Barrax Empire!
+- Battlemaster
+- Battleships
+- BattleTech - The Crescent Hawk's Inception
+- Beach Volley
+- Beam
+- Better Dead Than Alien!
+- Beyond the Ice Palace
+- Beyond Zork - The Coconut of Quendor
+- Bi-Fi - Snackzone
+- Bi-Fi II - Action in Hollywood
+- Big Nose - The Caveman
+- Bill & Ted's Excellent Adventure
+- Billiards II Simulator
+- Billiards Simulator
+- Bio Challenge
+- Bionic Commando
+- Birds N' Bees
+- Black Cauldron, The
+- Black Hornet
+- Black Lamp
+- Black Shadow
+- Black Tiger
+- Blackjack Academy
+- Blade Warrior
+- Blades of Steel
+- Blasteris
+- Blinky's Scary School
+- Block Shock - The Last Chance
+- Blockhead
+- Blockhead II
+- Bloodwych
+- Bloodwych - The Extended Levels
+- Blue Angel 69
+- Blue Angels - Formation Flight Simulation
+- Blue Boy
+- Blueberry
+- Blues Brothers, The
+- BMX Simulator
+- BoBo - Stir Crazy
+- Bomb Fusion
+- Bomb Jack
+- Bomb'X
+- Bomber 2000
+- Bombuzal
+- Bonanza Bros.
+- Booly
+- Boondar (AGA)
+- Borrowed Time
+- Boston Bomb Club
+- Botics
+- Bouncing Balls
+- Bouncing Bill
+- Boxing Masters
+- Brain Artifice
+- Brain Man
+- Brands Hatch
+- Brataccas
+- Brides of Dracula
+- Bridge 6.0
+- Bridge Player 2000 with Tutor
+- Bubble +
+- Bubble Bobble
+- Bubble Dizzy
+- Bubble Ghost
+- Bug Bash
+- Bug Bomber
+- Buggy Boy
+- Build It! - Das Bauhaus
+- BuilderLand - The Story of Melba
+- Bully's Sporting Darts
+- Bumpy's Arcade Fantasy
+- Bundesliga Manager
+- Bunny Bricks
+- Bush Buck - A Global Treasure Hunt
+- Bush Buck - Eine Weltweite Schatzsuche
+- Byte Man
+- C.Y.A.D. - A Game of Influence
+- Cabal
+- Cabaret Asteroids
+- Caesar
+- Calendar Quiz
+- Cap'n Carnage
+- Capone
+- Captain Blood
+- Captain Dynamo
+- Captain Planet and the Planeteers
+- Captive
+- Carcharodon - White Sharks
+- Cardiaxx (Electronic Zoo)
+- Cardinal of the Kremlin, The
+- Carlos
+- Carnage
+- Carrier Command
+- CarVup
+- CarVup - The Final Frontier
+- Casino
+- Casino Roulette
+- Castle Master
+- Castlevania
+- Castors Juniors dans la Foret, Les
+- Catch'em
+- Cave Maze
+- Cave Runner
+- Century
+- Challenge of the Matrix, The
+- Chamonix Challenge
+- Champ, The
+- Champion Driver
+- Championship Cricket
+- Championship Golf
+- Championship of Europe
+- Chariots of Wrath
+- Charlie Chimp
+- Charly (Dragonware)
+- Charon 5
+- Chase
+- Chase H.Q.
+- Checkmate
+- Chess Player 2150
+- Chessmaster 2000, The
+- Chip's Challenge
+- Chronicles of Omega, The
+- Chubby Gristle
+- Chuck Yeager's Advanced FlightTrainer 2.0
+- Chuckie Egg II
+- Cisco Heat
+- City Defence
+- CJ's Elephant Antics
+- Classic Arcadia & Baby Arcadia
+- Classic Board Games
+- Classic Invaders
+- Clever & Smart
+- Cliffhanger
+- Clik Clak
+- Clown-o-Mania
+- Clu Clu Land
+- Clue - Master Detective
+- Cluedo - Master Detective
+- Clystron
+- Cogan's Run
+- Cohort - Fighting for Rome
+- Cohort II - Fighting for Rome
+- Coloris
+- Colossus Bridge X
+- Colossus Chess X
+- Commando
+- Computer Scrabble Deluxe
+- Computer Third Reich
+- Conflict - Europe
+- Conqueror
+- Continental Circus
+- Corporate Raiders
+- Corruption
+- Corsarios
+- Corx
+- Cosmostruction - A Space Game of Skill and Strategy
+- Craps Academy
+- Crash Garrett
+- Crash Landing
+- Crazy Cars
+- Crazy Cars II
+- Crazy Cones
+- Crazy Shot
+- Crazy Sue
+- Crazy Sue Goes On
+- Cribbage King & Gin King
+- Cricket Amiga
+- Cricket Masters
+- Crime City
+- Crime Does Not Pay
+- Crime Time
+- Crimson Crown
+- Cross Out the Intruder
+- CrossCheck - Eishockey Action
+- Cruncher Factory
+- Crystal Hammer
+- Crystal Hammer '93 Edition
+- Crystal Palace
+- Crystal Quest
+- Crystals of Arborea
+- Cube-X
+- Cubix
+- Cubulus
+- Curse of RA, The
+- Cyber Cop
+- Cyber Kick
+- Cyberball - Football in the 21st Century
+- Cyberblast
+- Cybercon III
+- Cybergammon
+- Cybernauts
+- Cybernetix - The First Battle
+- Cybernoid II - The Revenge
+- Cyberpunks
+- Cycles, The - International Grand Prix Racing
+- Daily Double Horse Racing
+- Dames Simulator
+- Damocles - Mercenary II
+- Danger Castle
+- Dangerous Streets
+- Darius +
+- Dark Century
+- Dark Fusion
+- Dark Side
+- Darkman
+- Darts 501
+- Datastorm
+- Days of Thunder
+- Deadline
+- Death Trap
+- Deep Space
+- Defender
+- Defender II
+- Defenders of the Earth
+- Deflektor
+- Deja Vu - A Nightmare Comes True!!
+- Deja Vu II - Lost in Las Vegas!!
+- Delta Run
+- Deluxe Galaga
+- Demolition
+- Demon Blue
+- Demon's Tomb - The Awakening
+- Demon's Winter
+- Denaris
+- Denver Presente - Je Decouvre les Formes
+- Designasaurus
+- Diablo
+- Diego Maradona's World Football Manager
+- Dimo's Quest
+- Dingsda
+- Dinosaur Detective Agency
+- Discover U.S. History and Geography
+- Distant Armies - A Playing History of Chess
+- Ditris
+- Dizzy - Prince of the Yolkfolk
+- Dizzy Dice
+- Domination
+- Donald's Alphabet Chase
+- Donkey Kong
+- Doodlebug - Bug-Bash 2
+- Doofus
+- Double Dragon
+- Double Dragon II - The Revenge
+- Downhill Challenge
+- Dr. Fruit
+- Dr. Mario
+- Dr. Plummet's House of Flux
+- Drachen von Laas, Die
+- Drachensteine
+- Dragon Cave
+- Dragon Tiles (AGA)
+- Dribbling - Calcio Serie A 1992-93
+- Driller
+- Drip
+- Drivin' Force
+- Drol
+- Drsna Cesta
+- Dugger
+- Dungeon Master (Psygnosis)
+- Dungeons, Amethysts, Alchemists 'n' Everythin'
+- Dylan Dog 01 - La Regina delle Tenebre
+- Dyna Blaster
+- Dynamite Dick
+- Dynamite Dux
+- Dynatech
+- Dyter-07
+- E-Motion
+- E.T.'s Rugby League
+- Easy and Fun - Four in One
+- EbonStar
+- ECO
+- Edd the Duck 2 - Back with a Quack!
+- Edd the Duck!
+- Eddie Edwards Super Ski
+- Elf (MicroValue)
+- Elite
+- Emerald Mine
+- Emlyn Hughes Arcade Quiz
+- Emlyn Hughes International Soccer
+- Emmanuelle
+- Emperor of the Mines
+- Empire Soccer 94
+- Enchanted Land
+- Enchanter
+- Encounter
+- Energie-Manager
+- Enigma Device, The
+- Enlightenment - Druid II
+- Enterprise
+- Equality
+- Erik
+- Escape from Colditz
+- Escape from Tharkan
+- Escape from the Planet of the Robot Monsters
+- Eskimo Games
+- European Football Champ
+- European Soccer Challenge
+- Excalibur
+- Excellent Card Games
+- Exile
+- Exolon
+- Explorer
+- Extase
+- Extasy
+- Exxon
+- Eye of Horus
+- F1
+- F1 - World Championship Edition
+- F1 G.P. Circuits
+- F1 Tornado
+- F1-Racer
+- FA-18 Interceptor
+- Face-Off - Ice Hockey
+- Faery Tale Adventure, The
+- Fallen Angel
+- Falling Down
+- Familien Duell
+- Famous Five, The - Five on a Treasure Island
+- Fantasy World Dizzy
+- Fast Break
+- Fast Eddie's Pool and Billiards
+- Fast Food
+- Fast Freddie
+- Fast Lane! - The Spice Engineering Challenge
+- FC Manager
+- Femme Fatale
+- Femme Fatale v2.0
+- Fetiche Maya, Le
+- Feud
+- Feudal Lords
+- Fighting Soccer
+- Final Assault
+- Final Battle, The
+- Final Blow
+- Final Command
+- Final Conflict, The
+- Final Mission, The
+- Fire & Forget
+- Fire & Forget II - The Death Convoy
+- Fire and Brimstone
+- Fire Power
+- Fire!
+- Fireball
+- Firehawk
+- Firestar
+- FireZone
+- First Contact
+- First Letters - For Under 5's
+- First Letters and Words
+- First Person Pinball
+- First Shapes
+- Fish!
+- Fist Fighter
+- Fleet Med
+- Flight Path 737
+- Flight Simulator II
+- Flimbo's Quest
+- Flintstones, The
+- Flippit
+- Flood
+- Flotte
+- Flowers of Crystal
+- Fly Fighter
+- Flying Shark
+- Football Champ
+- Football Club Manager
+- Football Crazy
+- Football Director II (CDS)
+- Football Manager
+- Football Manager - World Cup Edition
+- Football Masters
+- Football Tactician
+- Footballer of the Year 2
+- FootMan
+- For President
+- Formula 1 3D
+- Formula 1 Grand Prix
+- Formula One Challenge
+- Fort Apache
+- Fortress Underground
+- Foundation's Waste
+- Franco Baresi World Cup Kick Off
+- Frankenstein
+- Frantic Freddie
+- Freak Out
+- Friday Night Pool
+- Frontline
+- Fruit Machine
+- Fruitmania
+- Fugger
+- Full Metal Planete
+- Fun School 2 - For the 6-8 Year Olds
+- Fun School 2 - For the Over-8s
+- Fun School 2 - For the Under-6s
+- Fun School 3 - For the Under-5s
+- Fussballmanager Gessellschaftsspeil
+- Future Basketball
+- Future Bike Simulator
+- Future Classics Collection
+- Future Sport
+- G.P. Tennis Manager
+- Galactic Conqueror
+- Galactic Empire
+- Galactic Invasion
+- Galaga '92
+- Galaxy Fight - The Incredible Space Flight
+- Galaxy Force II
+- Gamble Mania
+- Game of Harmony, The
+- Game of Life, The
+- Game Set Match
+- Gamma Zone
+- Ganymed
+- Gardener
+- Garfield - Big, Fat, Hairy Deal
+- Garfield - Winter's Tail
+- Gary Lineker's Hot-Shot!
+- Gauntlet II
+- Gazza II
+- Gazza's Super Soccer
+- GBA Championship Basketball - Two-on-Two
+- Gee Bee Air Rally
+- Geisha
+- Gem'X
+- Gemini Wing
+- Germ Crazy
+- Gettysburg - The Turning Point
+- GFL Championship Football
+- Ghosts 'N' Goblins
+- Ghouls 'N Ghosts
+- Giddy II - Hero in an Egg Shell
+- Giganoid
+- Gilbert - Escape from Drill
+- Gladiators
+- Global Trek & Evil Dawn
+- Gluecksrad
+- Gnome
+- Gnome Alone
+- Gnome Ranger
+- Go Player
+- Gold of the Americas - The Conquest of the New World
+- Gold of the Realm
+- Golden Axe
+- Golden Oldies - Volume 1
+- Golden Path
+- Golden Pyramid, The
+- Goldrunner
+- Goldrunner II
+- Gotcha
+- Graeme Souness Soccer Manager
+- Graeme Souness Vector Soccer
+- Graffiti Man
+- Graham Gooch World Class Cricket
+- Grand Ouvert
+- Grand Ouvert 2
+- Grand Prix Circuit
+- Grand Slam
+- Granny's Garden
+- Gravity
+- Gravity-Force
+- Great Courts
+- Great Giana Sisters, The
+- Great States II
+- Greg Norman's Ultimate Golf - Shark Attack
+- Grey Slayer
+- Grimblood
+- Grossmeister
+- Guild of Thieves, The
+- Guldkorn Expressen
+- Gunship
+- Gunshoot
+- H.A.T.E. - Hostile All Terrain Encounter
+- Halley Project, The - A Mission in Our Solar System
+- Hammer Boy!
+- Hammerfist
+- Hanse
+- Happy Monster
+- Harald Hardtand - Kampen om de Rene Taender
+- Hard Drivin'
+- Hard Drivin' II - Drive Harder
+- HardBall II
+- HardBall!
+- Harley-Davidson - The Road to Sturgis
+- Harricana - Raid International Motoneige - Quebec-Canada 90
+- Harry's Balloons (AGA)
+- Haus, Das
+- Head Over Heels
+- Heat Wave - Offshore Superboat Racing
+- Heavy Metal
+- Helicopter Mission
+- Hell Raiser
+- Hellbent
+- Hellfire Attack
+- Hellraider
+- Hellrun Machine, The
+- Helter Skelter
+- HeroQuest
+- High Steel
+- Hill Street Blues
+- Hilt - Against the Hoardes
+- Hirnriss
+- Hockey Pista
+- Hoi Remix (AGA)
+- Holiday Lemmings 1993
+- Holiday Lemmings 1994
+- Hollywood Hijinx
+- Hollywood Poker
+- Holo Squash
+- Hong Kong Phooey
+- Hostages
+- Hotel Detective
+- Hoyle's Official Book of Games Volume 2 - Solitaire
+- Huckleberry Hound in Hollywood Capers
+- Hudson Hawk
+- Human Killing Machine
+- Hunt for Red October, The
+- Hunt for Red October, The - The Movie
+- Hunter
+- Hunter Killer
+- Hurricane Commando
+- Hybris
+- Hyperdome
+- Hyperforce & Artificial Dreams
+- Hyperion
+- I Play 3-D Soccer
+- Iceball
+- Icerunner
+- IK+
+- Ikari Warriors
+- Ilyad
+- Imagems
+- Impossamole
+- Impossible Mission II
+- In the Beginning
+- Indiana Jones and the Fate of Atlantis - The Action Game
+- Indiana Jones and the Last Crusade - The Action Game
+- Indiana Jones and the Temple of Doom
+- Indianapolis 500 - The Simulation
+- Indigo
+- Indy Heat
+- Inertia Drive
+- Infestation
+- Infidel
+- Insanity Fight
+- Insector Hecti in the Inter Change
+- Insects in Space
+- International 3D Tennis
+- International Championship Athletics
+- International Ninja Rabbits
+- International Soccer (Zeppelin Platinum)
+- International Soccer Challenge
+- International Tennis
+- Interphase
+- InvaderCraft
+- Iron Hand
+- Iron Trackers
+- Ishido - The Way of Stones
+- Italia 1990
+- Italy '90 Soccer
+- Italy 1990
+- Italy 1990 - Winners Edition
+- Ivan 'Ironman' Stewart's Super Off Road
+- Ivanhoe
+- Jahangir Khan's World Championship Squash
+- Jail Break
+- James Pond - Underwater Agent
+- James Pond 2 - Codename RoboCod (AGA)
+- Jet
+- Jet Set Willy 3
+- Jet Set Willy II
+- Jigsaw! - The Ultimate Electronic Puzzle
+- Jimmy White's 'Whirlwind' Snooker
+- Jocky Wilson's Compendium of Darts
+- Jocky Wilson's Darts Challenge
+- Joe Blade
+- Joe Blade 2
+- John Barnes European Football
+- John Lowe's Ultimate Darts
+- Joker-Poker
+- Journey - The Quest Begins
+- Judge Dredd
+- Jump Em
+- Jump Jet
+- Jumping Jack'Son
+- Jumpman
+- Jumpman Junior
+- Jungle Boy
+- Jungle Jim
+- Jupiter's Masterdrive
+- Kalas Puffs Expressen
+- Kamikaze
+- Kampfgruppe
+- Karamalz Cup - Eis Hockey
+- Karate Kid Part II, The
+- Karate Master
+- Karting Grand Prix
+- Kelly X
+- Kengi
+- Kennedy Approach
+- Kenny Dalglish Soccer Match
+- Keyboard Cadet
+- Keys to Maramon, The
+- Kick Off
+- Kick Off 2
+- KickIt - A Day for the Laiban
+- Kid Gloves
+- Kids Type
+- Kikstart II
+- Kikugi
+- Killerball
+- Killing Machine
+- Kinderama
+- King's Quest - Quest for the Crown
+- King's Quest II - Romancing the Throne
+- King's Quest III - To Heir is Human
+- Kingdoms of Germany
+- Kiro's Quest
+- Klax
+- Knight Orc
+- Kreuz As 'Poker'
+- Krusty's Fun House
+- Krymini
+- Krypton Egg
+- Kwasimodo
+- Lancaster
+- Lancelot
+- Landsitz von Mortville, Der
+- Laser Squad
+- Lasermania 2
+- Last Battle
+- Last Inca, The
+- Leader Board
+- League Challenge
+- Leeds United Champions!
+- Legend of Djel
+- Legend of Lothian
+- Legend of the Sword
+- Leisure Suit Larry - In the Land of the Lounge Lizards
+- Leonardo
+- Let's Spell at Home
+- Let's Spell Out and About
+- Lethal Formula
+- Lettrix
+- Licence to Kill
+- Light Corridor, The
+- Limes & Napoleon
+- Lin Wu's Challenge
+- Line of Fire
+- Lingo
+- Liquid Kids
+- Little Computer People
+- Little Wizards
+- Live and Let Die - The Computer Game
+- Liverpool - The Computer Game
+- Living Jigsaw
+- Llamatron - 2112
+- Locomotion (Kingsoft)
+- LodeRunner
+- Long Lance
+- Loopz
+- Lords of War
+- Lost Dutchman Mine
+- Lotus Esprit Turbo Challenge
+- Lotus Turbo Challenge 2
+- Lunar-C
+- Lupo Alberto - The Videogame
+- Lurking Horror, The
+- M1 Tank Platoon
+- Mach 3
+- Mad Professor Mariarti
+- Mafdet and the Book of the Dead
+- Magic Boy
+- Magic Coins
+- Magic Garden, The
+- Magic Johnson's Basketball
+- Magic Lines
+- Magic Marble
+- Magic Pockets
+- Magicland Dizzy
+- Major Motion
+- Malta Storm
+- Manager
+- Manchester United Europe
+- Manoir de Mortvielle, Le
+- Marathon
+- Marble Madness
+- Marble Rescue
+- Maria's Christmas Box
+- Masterblazer
+- MasterType
+- Match Pairs
+- Match-It
+- Math Blaster Plus!
+- Math Wizard
+- Math-A-Magician
+- Maths Dragons
+- Maths Monkey
+- Matrix
+- Matrix Marauders
+- Mau-Mau
+- Mavis Beacon Teaches Typing
+- Mayday Squad Heroes
+- Mean 18 - Ultimate Golf
+- Mean Machine
+- Medal Winner
+- Medieval Warriors
+- Mega Motion
+- Mega Phoenix
+- Megaroids
+- MegArts Hockey
+- Menace
+- Mercenary - Escape from Targ & The Second City
+- Mercenary III - The Dion Crisis
+- Mercs
+- Merv the Merciless
+- Metagalactic Llamas - Battle at the Edge of Time
+- Metal Law
+- Metal Mutant
+- Meteors
+- MF Tanks
+- Mickey's Memory Challenge
+- Micro Machines
+- Microbattle
+- Microbes
+- MicroProse Soccer
+- Midnight Resistance
+- Midwinter
+- MiG-29 Fulcrum
+- MiG-29 Soviet Fighter
+- Millennium 2.2
+- Mind Force
+- Mind Walker
+- Mindbender
+- Mindbreaker
+- Mindfighter
+- Mindroll
+- Mindshadow
+- Mini Golf Plus
+- Minos
+- Mirror Magic
+- Mission - Con-Bat
+- Mission Andromeda (Demonware)
+- Mission Elevator
+- Moebius - The Orb of Celestial Harmony
+- Money Cascade Professional Fruit Machine
+- Money-Player Professional
+- Monster Business
+- Monty Python's Flying Circus
+- Moon Blaster
+- Moonbase - Lunar Colony Simulator
+- Moonfall
+- Moonmist
+- Morton Strikes Back
+- Mortville Manor
+- Motor Massacre
+- Mouse Trap
+- Mover
+- Moving
+- Mr Do! Run Run
+- Mr. Heli
+- Multi Player Soccer Manager
+- Multi Zocker
+- Multi-Player Yahtzee
+- Murder
+- Murders in Venice
+- Muzzy
+- My Funny Maze
+- Mysterious Worlds
+- Mystical
+- Myth
+- Napolean I
+- Narc
+- Nations of the World - Australia
+- Nations of the World - Canada
+- Naughty Ones (AGA)
+- Navy Seals
+- Nebula - The Wars of Uropa
+- Nebulus
+- Necronom
+- Neighbours
+- Netherworld
+- Neuromancer
+- Neuronics
+- Never Mind
+- New Zealand Story, The
+- Nicky Boom
+- Nigel Mansell's Grand Prix
+- Night Hunter
+- Night Shift
+- Night Walk
+- Nightdawn
+- Ninja Mission
+- Ninja Spirit
+- Nipper versus the Kats
+- Nitro Boost Challenge
+- No Exit
+- No Second Prize
+- Nord and Bert Couldn't Make Head or Tail of It
+- North & South
+- Nucleus
+- O.B.Y. I
+- Oath, The
+- Oberon 69
+- Obliterator
+- Obstickle
+- Official Everton FC Intelligensia, The
+- Ogre
+- Oh No! More Lemmings
+- Oliver & Company
+- Omar Sharif's Bridge
+- Omega
+- Onslaught
+- Oo-Topos
+- Ooze - Creepy Nites
+- Operation - Cleanstreets
+- Operation Com-bat
+- Operation Harrier
+- Operation Jupiter
+- Operation Neptune
+- Operation Overlord - The Invasion of Europe
+- Oriental Games
+- Osiris
+- OsWALD of the Ice Floes
+- Out Run (U.S. Gold)
+- Outzone
+- Overlander (Elite)
+- Overlord (Virgin Mastertronic)
+- Overrun! - A Tactical Game of Modern Land Warfare
+- Oxxonian
+- Oxyd
+- Oxyd Magnum!
+- P.O.W.
+- P.P. Hammer and His Pneumatic Weapon
+- P47 Thunderbolt
+- Pac-Land
+- Pac-Mania
+- Pacboy & Shooting Star
+- Paint It
+- Pandora
+- Pang
+- Paperboy
+- Paperboy 2
+- Paradox
+- Paradox Effect II, The
+- Paradox Effect, The
+- Paradroid 90
+- Paragliding
+- Paramax
+- Parasite
+- Parasol Stars - Rainbow Islands 2
+- Paris Dakar
+- Paris Dakar 1990
+- Passing Shot
+- Patience I
+- Patience II
+- Penthouse Hot Numbers
+- Pepsi - All Over the World
+- Persecutors
+- Peter Beardsley's International Football
+- Peter Pan (Fr)
+- Peter Schmeichel Soccer
+- Phalanx
+- Phantasie
+- Phantasie III - The Wrath of Nikademus
+- Phantom Fighter
+- Pharoah's Curse
+- Phobia
+- Pick Out
+- Pick'n Pile
+- Pictionary
+- Piece 'n' Space
+- Pinball I.Q.
+- Pink Panther
+- Pioneer Plague, The
+- Pipe Dream
+- Pipe Mania
+- Pipe Master II
+- Pipe Panic
+- Pipe Rider
+- Pipeline (Softworx)
+- Pixie & Dixie
+- Planetfall
+- Platoon
+- Player Manager
+- Plexu
+- Plotting
+- Plundered Hearts
+- Plutos
+- Pocket Rockets
+- Police Quest - In Pursuit of the Death Angel
+- Pool (Kingsoft)
+- Pool (Mastertronic)
+- Pop-Up
+- Popeye 2
+- Populous
+- Populous II - Trials of the Olympian Gods
+- Ports of Call
+- Postman Pat
+- Postman Pat 3 - To the Rescue!
+- Power Pac
+- Power Pinball
+- Power Roller
+- Power Walls
+- Power, The
+- Powerboat USA - Offshore Superboat Racing
+- Powerdrome
+- PowerMonger
+- Powerplay - Le Jeu des Dieux
+- Powerplay - The Game of the Gods
+- Powerstyx
+- Prehistorik
+- Preis ist Heiss, Der
+- President is Missing, The
+- Prime Time
+- Prince
+- Prince of Persia
+- Prison
+- Pro PowerBoat Simulator
+- Pro Tennis Simulator
+- Pro Tennis Tour
+- Pro Tennis Tour 2
+- ProFlight
+- Project 1
+- Projectyle
+- ProSoccer 2190
+- Protector (16 Blitz Mastertronic)
+- Psycho
+- Psycho Squares Deluxe
+- Pub Trivia Simulator
+- Puffy's Saga
+- Punisher, The
+- Punkt Punkt Punkt
+- Purple Saturn Day
+- Pursuit to Earth, The
+- Puzzle Storybook, The
+- Puzznic
+- Q-Bic
+- Qattro
+- QBall
+- Qix
+- Quadrel
+- Quadrix
+- Quantox
+- Quartz
+- Quest of Agravain, The
+- Question of Sport, A
+- Quicksilver Pinball
+- Qwak
+- R-Type
+- R-Type II
+- Rad van Fortuin
+- Radio Controlled Racer
+- Raffles
+- Rage (Scorpius)
+- Rainbow Islands
+- Rally Cross Challenge
+- Rallye Master
+- Rambo III
+- Rampart
+- Rasende Reporter, Der
+- RasterBike
+- Reach for the Stars - Conquest of the Galaxy - Third Edition
+- Read & Rhyme
+- Real Genius
+- Realm of the Trolls
+- Realm of the Warlock
+- Reasoning with Trolls
+- Rebel Charge at Chickamauga
+- Rebellion
+- Red Lightning
+- Reel Fish'n
+- Renaissance
+- Renegade
+- Rescue
+- Rescue 2
+- Retee!
+- Return to Genesis
+- Revelation!
+- Revenge of the Mutant Camels
+- Reverse
+- Reversi
+- Rick Dangerous
+- Rick Dangerous 2
+- Rick Dangerous 2.5
+- Rings of Medusa
+- Ringside Boxing
+- Rise of the West
+- Risk - The World Conquest Game
+- Riskant!
+- Road Blasters
+- Road Raider
+- Roadwar 2000
+- Roadwar Europa
+- Roadwars
+- Robbeary
+- Robin Heed
+- Robin Hood - Legend Quest
+- Robin Smith's International Cricket
+- Robocop
+- Robot Reader - Chicken Little
+- Robotnic
+- Rock Star Ate My Hamster
+- Rock'n Roll
+- Rocket Attack
+- Rockford - The Arcade Game
+- Rocky
+- Rod-Land
+- Roll-out
+- RollerBall
+- Rollerpede
+- Rolling Stones
+- Rolling Thunder
+- Rorke's Drift
+- Roton
+- Roue de la Fortune, La
+- Roulette-Royal
+- Round the Bend! - Doc Croc's Outrageous Adventures!
+- Roundabout
+- Rugby - The World Cup
+- Rugby Coach
+- Rugby League Coach
+- RVF Honda
+- S.D.I. - Now the Odds are Even
+- S.T.A.G.
+- Saint & Greavsie
+- Saint Dragon
+- Santa Paravia and Fiumaccio
+- Santa's Xmas Caper
+- Sarakon
+- Sargon III
+- SAS Combat Simulator
+- Sat.1 Bingo
+- Scapeghost
+- Scorched Tanks
+- Scorpio
+- Scorpion
+- Scrabble
+- Scramble Spirits
+- Scrolling Walls
+- SeaHaven Towers
+- Seastalker
+- Seconds Out
+- Sensible World of Moon Soccer
+- Senso
+- Sentinel, The & Sentry, The
+- Serie
+- Seven Gates of Jambala, The
+- Sextimates
+- Sexy Droids
+- Seymour Goes to Hollywood
+- Shadow Dancer
+- Shadowgate
+- Shanghai
+- Shapes
+- Sharkey's Moll
+- Shepherd, The
+- Sherlock - The Riddle of the Crown Jewels
+- Shiftrix
+- Shinobi
+- ShockWave
+- Shuffle
+- Shuffle Pix
+- Shufflepuck Cafe
+- Side Arms
+- SideWinder
+- SideWinder II
+- Silent Service - The Submarine Simulation
+- Silkworm
+- Silver Eagle
+- Silver Star
+- SimCity
+- Simpsons, The - Bart vs. The World
+- Simulman 01 - Simulman
+- Sink or Swim
+- Sir Fred - The Legend
+- Sirius 7
+- Skidoo
+- Skidz
+- Skrull
+- Skweek
+- Skyblaster
+- SkyChase
+- Skyfox
+- Skyfox II - The Cygnus Conflict
+- Slackskin & Flint
+- Slam Raid
+- Slayer
+- Slaygon
+- Slider
+- Sliders
+- Sliding
+- Smash
+- Smash the Beast
+- Smus
+- Snakes and Ladders
+- Snare
+- Sneech
+- Snoball in Hell
+- Snow Strike
+- Soccer King
+- Soccer Manager Plus
+- Soccer Pinball
+- Soccer Rivals
+- Soccer Supremo
+- Soeldner
+- Soko
+- Sol Negro
+- Soldier 2000
+- Soldier of Light
+- Solitaire Royale
+- Sonic Boom
+- Sony Game
+- Sooty & Sweep
+- Sophelie
+- Sorcerer
+- Sorcerer Lord
+- Sorceror's Apprentice
+- Sorcery +
+- Sorefist
+- Space Assault
+- Space Bomber
+- Space Bomber 2
+- Space Bomber 3
+- Space Conquest - A Galactic Odyssey
+- Space Day
+- Space Dunk
+- Space Fight
+- Space Harrier
+- Space Harrier II
+- Space Knight
+- Space Quest - The Sarien Encounter
+- Space Quest II - Vohaul's Revenge
+- Space Ranger
+- Space Rogue
+- Space Station
+- Spatial Hyperdrive
+- Speed
+- Speedball
+- Speedball 2 - Brutal Deluxe
+- Speedboat Assassins
+- Speedrunner
+- Spell Book
+- Spellbound Dizzy & Dizzy Panic
+- Spellbreaker
+- Spherical
+- Spiderman - Il ritorno di Hobgoblin
+- Spiderman 2 - ...e ora, Carnage!
+- Spiderman 3 - Destino Incrociato!
+- Spidertronic
+- Spike in Transylvania
+- Spindizzy Worlds
+- Spinworld
+- Spitting Image
+- Spy vs Spy
+- Spy vs Spy II - The Island Caper
+- Spy vs Spy III - Arctic Antics
+- Spy Who Loved Me, The
+- Squarestone
+- Stable Masters
+- Stable Masters II
+- Stable Masters III
+- Stack Up
+- Stalingrad
+- Star Breaker
+- Star Goose!
+- Star Trash
+- Star Wars
+- Star Wars - Return of the Jedi
+- Star Wars - The Empire Strikes Back
+- Star-blaze
+- Starcross
+- Starflight
+- Starglider 2
+- Starians
+- Starways
+- Stationfall
+- Statix
+- Steel
+- Steg the Slug
+- Stellaryrx
+- Sternsiedler
+- Stone Age
+- Storm Across Europe - The War in Europe - 1939-45
+- Storm Master
+- Stormlord
+- Stormtrooper
+- Stratego
+- Street Fighter
+- Street Gang
+- Street Sports Basketball
+- Stres
+- Strider
+- Strider II
+- Strike Force Harrier
+- Strikefleet
+- Striker
+- Strikes -N- Spares
+- Strikes -N- Spares Professional
+- Strip Poker
+- Strip Poker II+
+- Struggle
+- Stunt Car Racer
+- Sub Battle Simulator
+- Sub Rally
+- Subbuteo - The Computer Game
+- Subtrade - Return to Irata
+- Suburban Commando
+- Suicide Mission
+- Summer Camp
+- Summer Games
+- Summer Games II
+- Summer Olympiad
+- Sun Crosswords, The - Vol. 1 & 2
+- Sun Crosswords, The - Vol. 3 & 4
+- Sunny Spells
+- Supaplex
+- Super Bob Dylan
+- Super C
+- Super Grand Prix
+- Super Grid Runner
+- Super Hang-On
+- Super Huey
+- Super League Manager
+- Super Loopz (AGA)
+- Super OsWALD
+- Super Seymour Saves the Planet
+- Super Tennis Champs
+- Super Tetris
+- Super Wonderboy in Monsterland
+- Surgeon, The
+- Suspect
+- Suspended
+- Swap
+- Switchblade
+- Switchblade II
+- SWIV
+- Sword & The Rose, The
+- T Tec Maze
+- T-Bird
+- Taekwondo
+- Take-em-Out
+- Tanglewood
+- Tangram
+- Tank Attack (CDS)
+- Tanx
+- Taran im Abenteuerland
+- Task Force
+- Tass Times in Tonetown
+- Team Yankee
+- Tearaway Thomas
+- Tee Off!
+- Teenage Mutant Hero Turtles
+- Teenage Mutant Hero Turtles - The Coin-op!
+- Teenage Queen
+- TeleEpic
+- TeleEpic II
+- TeleGames
+- Telekommando II, Das
+- Telekommando!, Das
+- Teller, The
+- Temple of Apshai Trilogy
+- Tennis Cup
+- Teo
+- Terramex
+- Terran Envoy
+- Terror Liner
+- Terrorpods
+- Terry's Big Adventure
+- Test Drive
+- Test Drive II - The Duel
+- Tetris (Spectrum HoloByte)
+- Tex 01 - Mefisto
+- Th!nk Cross
+- Theme Park Mystery - Variations on a Theme
+- Thexder
+- Think Twice
+- Think!
+- Thomas the Tank Engine
+- Thomas the Tank Engine 2
+- Thromulus - The Enemy Within
+- Thunder Burner
+- ThunderCats
+- Tic Tac Toe
+- Tie-Break
+- Time and Magik - The Trilogy
+- Time Lock
+- Time Machine
+- Time Runners 01 - Gateways in Time
+- Time Scanner
+- Times Crosswords, The - Vol. 1 & 2
+- Times Crosswords, The - Vol. 3 & 4
+- Times of Lore
+- Tintin on the Moon
+- Tischtennis
+- Titan
+- Titano
+- To the Rhine - The Allied Advance in the West
+- Toki
+- Tommy Gun
+- Tony & Friends in Kellogg's Land
+- Toobin'
+- Top Cat
+- Torch 2081
+- Tornado Ground Attack
+- Total Eclipse
+- Tots Time
+- Tower of Babel
+- Toyota Celica GT Rally
+- Tracers
+- Track Suit Manager
+- Traders
+- Trained Assassin
+- Transworld
+- Transylvania
+- Trax
+- Treasure Island Dizzy
+- Treasure Trap
+- Treble Champions
+- Trex Warrior - 22nd Century Gladiator
+- TrianGO
+- Tricky-Quiky-Games - Die Suche nach den Verschollenen Seiten
+- Trinity
+- Tripple-X
+- Trivia Game Show
+- Trivia Trove
+- Trivial Pursuit
+- Trivial Pursuit - A New Beginning
+- Trois Petits Cochons s'Amusent, Les
+- Tron 5000
+- Trump Castle
+- Tunnels of Armageddon
+- Turbo
+- Turbo Cup
+- Turbo Out Run
+- Turn It
+- Turn It II
+- Turn n' Burn
+- Turrican
+- Turrican 3
+- Twin Turbos
+- Twintris
+- TwinWorld - Land of Vision
+- Two of a Kind
+- Two to One
+- Two-Up
+- Twylyte
+- Typhoon
+- Typhoon of Steel
+- Typhoon Thompson in Search for the Sea Child
+- U.N. Squadron
+- Ugh!
+- Ultima III - Exodus
+- Ultimate Quiz, The
+- Under Pressure
+- Uninvited
+- Universal Monsters & Superhero
+- Universal Warrior
+- Unsensible Soccer
+- Vader
+- Valhalla and the Lord of Action
+- Vaxine
+- Vector Championship Run
+- Vegas Gambler
+- Vermeer
+- Veteran
+- Victor Loomes - Das Spiel
+- Victory
+- Victory Road
+- Video Vegas
+- Vigilante
+- Vikings - Fields of Conquest - Kingdoms of England II
+- Vindex
+- Vindicators
+- Violator
+- Virus
+- Vixen
+- Volleyball Simulator
+- Voodoo Nightmare
+- Vortex
+- Voyager
+- Vroom
+- Vulcan
+- Vyper
+- Vyrus
+- Wacky Darts
+- Wall Street Wizard
+- Wall$treet
+- Walls
+- Wanderer, The
+- Wanted
+- War
+- War Machine
+- War Zone (Paradox)
+- Warhead
+- Warlock
+- Warlock the Avenger
+- Warlock's Quest
+- Warp
+- Waterloo
+- Way of the Little Dragon, The
+- Wayne Gretzky Hockey
+- Web of Terror
+- Weird Dreams
+- Welltris
+- Werner Flaschbier
+- What Is It Where Is It Vol. 1
+- Wheelie
+- Where in the World is Carmen Sandiego
+- White Death - Battle for Velikiye Luki, November 1942
+- Wibble World Giddy - Wibble Mania!
+- Wicked
+- Willow
+- Window Wizard
+- Windwalker
+- Wings of Fury
+- Winnie the Pooh in the Hundred Acre Wood
+- Winning Post
+- Winter Games
+- Winter Supersports 92
+- Winzer
+- Wiraz
+- Wishbringer - The Magick Stone of Dreams
+- Wisielec
+- Wizards Castle
+- Wizball
+- Wizmo
+- World Championship Boxing Manager
+- World Class Rugby
+- World Class Rugby - Five Nations Edition
+- World Cricket
+- World Cup - All Time Greats
+- World Cup 90
+- World Games
+- World Rugby
+- World Soccer
+- World Tour - Australia
+- World Tour Golf
+- Worlds at War
+- Wrath of Gwendor
+- Wreckers
+- X-IT-50 - The Quest for the Meaning of Life
+- X-Ploit
+- X-Swap - Booming Edition (AGA)
+- Xenex
+- Xenon
+- XR 35 Fighter Mission
+- Xybots
+- Yogi's Big Clean Up
+- Yogi's Great Escape
+- Yuppi's Revenge
+- Zack!
+- Zany Golf
+- Zardoz
+- Zargon
+- Zaxxon
+- Zeewolf
+- Zeewolf 2 - Wild Justice
+- Zero Gravity
+- Zeron
+- Zitrax
+- Zock Out
+- Zombi
+- Zombie Apocalypse
+- Zork - The Undiscovered Underground
+- Zork I - The Great Underground Empire
+- Zork II - The Wizard of Frobozz
+- Zork III - The Dungeon Master
+- Zyconix
+- Zzzep
+
+
+## Nintendo 64 (319)
+
+- 007 - The World is Not Enough (U) [!]
+- 1080 Snowboarding (JU) (M2) [!]
+- 77a-SE
+- AeroFighters Assault (U) [!]
+- AeroGauge (U) [!]
+- Aidyn Chronicles - The First Mage (U) [!]
+- All Star Tennis '99 (U) [!]
+- All-Star Baseball '99 (U) [!]
+- All-Star Baseball 2000 (U) [!]
+- All-Star Baseball 2001 (U) [!]
+- Armorines - Project S.W.A.R.M. (U) [!]
+- Army Men - Air Combat (U) [!]
+- Army Men - Sarge's Heroes (U) [!]
+- Army Men - Sarge's Heroes 2 (U) [!]
+- Asteroids Hyper 64 (U) [!]
+- AsteroidShooterV1
+- Automobili Lamborghini (U) [!]
+- Banjo-Kazooie (U) (V1.0) [!]
+- Banjo-Tooie (U) [!]
+- Bassmasters 2000 (U) [!]
+- Batman Beyond - Return of the Joker (U) [!]
+- BattleTanx (U) [!]
+- BattleTanx - Global Assault (U) [!]
+- Battlezone - Rise of the Black Dogs (U) [!]
+- Beetle Adventure Racing! (U) (M3) [!]
+- Big Mountain 2000 (U) [!]
+- bike98
+- bike98_2
+- Bio F.R.E.A.K.S. (U) [!]
+- Blast Corps (U) (V1.1) [!]
+- Blues Brothers 2000 (U) [!]
+- Body Harvest (U) [!]
+- Bomberman 64 (U) [!]
+- Bomberman 64 - The Second Attack! (U) [!]
+- Bomberman Hero (U) [!]
+- Bottom of the 9th (U) [!]
+- Brunswick Circuit Pro Bowling (U) [!]
+- Buck Bumble (U) [!]
+- Bug's Life, A (U) [!]
+- Bust-A-Move '99 (U) [!]
+- Bust-A-Move 2 - Arcade Edition (U) [!]
+- California Speed (U) [!]
+- Carmageddon 64 (U) [!]
+- Castlevania (U) (V1.2) [!]
+- Castlevania - Legacy of Darkness (U) [!]
+- Chameleon Twist (U) [!]
+- Chameleon Twist 2 (U) [!]
+- Charlie Blast's Territory (U) [!]
+- Chip8
+- Chopper Attack (U) [!]
+- Clay Fighter - Sculptor's Cut (U) [!]
+- Clay Fighter 63 1-3 (U) [!]
+- Command & Conquer (U) [!]
+- Conker's Bad Fur Day (U) [!]
+- Cruis'n Exotica (U) [!]
+- Cruis'n USA (U) (V1.2) [!]
+- Cruis'n World (U) [!]
+- CyberTiger (U) [!]
+- Dark Rift (U) [!]
+- Deadly Arts (U) [!]
+- Destruction Derby 64 (U) [!]
+- dexanoid
+- Diddy Kong Racing (U) (M2) (V1.1) [!]
+- Disney's Donald Duck - Goin' Quackers (U) [!]
+- Disney's Tarzan (U) [!]
+- Donkey Kong 64 (U) [!]
+- Doom 64 (U) (V1.1) [!]
+- Dr. Mario 64 (U) [!]
+- Dual Heroes (U) [!]
+- Duck Dodgers Starring Daffy Duck (U) (M3) [!]
+- Duke Nukem - ZER0 H0UR (U) [!]
+- Duke Nukem 64 (U) [!]
+- Earthworm Jim 3D (U) [!]
+- ECW Hardcore Revolution (U) [!]
+- Elmo's Letter Adventure (U) [!]
+- Elmo's Number Journey (U) [!]
+- Excitebike 64 (U) [!]
+- Extreme-G (U) [!]
+- Extreme-G XG2 (U) [!]
+- F-1 Pole Position 64 (U) (M3) [!]
+- F-1 World Grand Prix (U) [!]
+- F-ZERO X (U) [!]
+- fcube
+- FIFA - Road to World Cup 98 (U) (M7) [!]
+- FIFA 99 (U) [!]
+- FIFA Soccer 64 (U) (M3) [!]
+- Fighter Destiny 2 (U) [!]
+- Fighter's Destiny (U) [!]
+- Fighting Force 64 (U) [!]
+- Flying Dragon (U) [!]
+- Forsaken 64 (U) [!]
+- Fox Sports College Hoops '99 (U) [!]
+- Frogger 2 (U) (Alpha) [!]
+- Gauntlet Legends (U) [!]
+- Gb
+- Gex 3 - Deep Cover Gecko (U) [!]
+- Gex 64 - Enter the Gecko (U) [!]
+- Glover (U) [!]
+- Goemon's Great Adventure (U) [!]
+- Golden Nugget 64 (U) [!]
+- GoldenEye 007 (U) [!]
+- GT 64 - Championship Edition (U) [!]
+- Harvest Moon 64 (U) [!]
+- Hercules - The Legendary Journeys (U) [!]
+- Hexen (U) [!]
+- Hey You, Pikachu! (U) [!]
+- Hot Wheels Turbo Racing (U) [!]
+- Hybrid Heaven (U) [!]
+- Hydro Thunder (U) [!]
+- Iggy's Reckin' Balls (U) [!]
+- In-Fisherman Bass Hunter 64 (U) [!]
+- Indiana Jones and the Infernal Machine (U) [!]
+- Indy Racing 2000 (U) [!]
+- International Superstar Soccer '98 (U) [!]
+- International Superstar Soccer 2000 (U) (M2) [!]
+- International Superstar Soccer 64 (U) [!]
+- International Track & Field 2000 (U) [!]
+- Jeopardy! (U) [!]
+- Jeremy McGrath Supercross 2000 (U) [!]
+- Jet Force Gemini (U) [!]
+- John Romero's Daikatana (U) [!]
+- Ken Griffey Jr.'s Slugfest (U) [!]
+- Killer Instinct Gold (U) (V1.2) [!]
+- Kirby 64 - The Crystal Shards (U) [!]
+- Knife Edge - Nose Gunner (U) [!]
+- Knockout Kings 2000 (U) [!]
+- Kobe Bryant's NBA Courtside (U) [!]
+- Legend of Zelda, The - Majora's Mask (U) [!]
+- Legend of Zelda, The - Ocarina of Time (U) (V1.2) [!]
+- Legend of Zelda, The - Ocarina of Time - Master Quest (U) (GC) [!]
+- LEGO Racers (U) (M10) [!]
+- LINE
+- Lode Runner 3-D (U) [!]
+- Mace - The Dark Age (U) [!]
+- Madden Football 64 (U) [!]
+- Madden NFL 2000 (U) [!]
+- Madden NFL 2001 (U) [!]
+- Madden NFL 2002 (U) [!]
+- Madden NFL 99 (U) [!]
+- Magical Tetris Challenge (U) [!]
+- Major League Baseball Featuring Ken Griffey Jr. (U) [!]
+- Mario Golf (U) [!]
+- Mario Kart 64 (U) [!]
+- Mario Party (U) [!]
+- Mario Party 2 (U) [!]
+- Mario Party 3 (U) [!]
+- Mario Tennis (U) [!]
+- Mega Man 64 (U) [!]
+- Mia Hamm Soccer 64 (U) (M2) [!]
+- Mickey's Speedway USA (U) [!]
+- Micro Machines 64 Turbo (U) [!]
+- Midway's Greatest Arcade Hits Volume 1 (U) [!]
+- Mike Piazza's Strike Zone (U) [!]
+- Milo's Astro Lanes (U) [!]
+- Mischief Makers (U) [!]
+- Mission Impossible (U) [!]
+- Monaco Grand Prix (U) [!]
+- Monopoly (U) [!]
+- Monster Truck Madness 64 (U) [!]
+- Mortal Kombat 4 (U) [!]
+- Mortal Kombat Mythologies - Sub-Zero (U) [!]
+- Mortal Kombat Trilogy (U) (V1.2) [!]
+- MRC - Multi Racing Championship (U) [!]
+- Ms. Pac-Man - Maze Madness (U) [!]
+- MSK-PONG
+- Mystical Ninja Starring Goemon (U) [!]
+- Nagano Winter Olympics '98 (U) [!]
+- Namco Museum 64 (U) [!]
+- NASCAR 2000 (U) [!]
+- NASCAR 99 (U) [!]
+- NBA Courtside 2 - Featuring Kobe Bryant (U) [!]
+- NBA Hangtime (U) [!]
+- NBA In the Zone '98 (U) [!]
+- NBA In the Zone '99 (U) [!]
+- NBA In the Zone 2000 (U) [!]
+- NBA Jam 2000 (U) [!]
+- NBA Jam 99 (U) [!]
+- NBA Live 2000 (U) (M4) [!]
+- NBA Live 99 (U) (M5) [!]
+- NBA Showtime - NBA on NBC (U) [!]
+- New Tetris, The (U) [!]
+- NFL Blitz (U) [!]
+- NFL Blitz - Special Edition (U) [!]
+- NFL Blitz 2000 (U) [!]
+- NFL Blitz 2001 (U) [!]
+- NFL Quarterback Club 2000 (U) [!]
+- NFL Quarterback Club 2001 (U) [!]
+- NFL Quarterback Club 98 (U) [!]
+- NFL Quarterback Club 99 (U) [!]
+- NHL 99 (U) [!]
+- NHL Blades of Steel '99 (U) [!]
+- NHL Breakaway 98 (U) [!]
+- NHL Breakaway 99 (U) [!]
+- Nightmare Creatures (U) [!]
+- Nuclear Strike 64 (U) [!]
+- O.D.T. (U) (M3) [!]
+- Off Road Challenge (U) [!]
+- Ogre Battle 64 - Person of Lordly Caliber (U) [!]
+- Olympic Hockey Nagano '98 (U) [!]
+- Paper Mario (U) [!]
+- Paperboy (U) [!]
+- Penny Racers (U) [!]
+- Perfect Dark (U) (V1.1) [!]
+- PGA European Tour (U) [!]
+- Pilotwings 64 (U) [!]
+- PIPPONG
+- Pokemon Puzzle League (U) [!]
+- Pokemon Snap (U) [!]
+- Pokemon Snap Station (U) [!]
+- Pokemon Stadium (U) (V1.1) [!]
+- Pokemon Stadium 2 (U) [!]
+- Polaris SnoCross (U) [!]
+- PONG
+- Power Rangers - Lightspeed Rescue (U) [!]
+- Powerpuff Girls, The - Chemical X-Traction (U) [!]
+- Puzzle Master
+- Quake 64 (U) [!]
+- Quake II (U) [!]
+- Quest 64 (U) [!]
+- Rally Challenge 2000 (U) [!]
+- Rampage - World Tour (U) [!]
+- Rampage 2 - Universal Tour (U) [!]
+- Rat Attack (U) (M6) [!]
+- Rayman 2 - The Great Escape (U) (M5) [!]
+- Razor Freestyle Scooter (U) [!]
+- Re-Volt (U) [!]
+- Ready 2 Rumble Boxing (U) [!]
+- Ready 2 Rumble Boxing - Round 2 (U) [!]
+- Resident Evil 2 (U) (V1.1) [!]
+- Road Rash 64 (U) [!]
+- Roadsters Trophy (U) (M3) [!]
+- Robotron 64 (U) [!]
+- Rocket - Robot on Wheels (U) [!]
+- RR64 - Ridge Racer 64 (U) [!]
+- Rugrats - Scavenger Hunt (U) [!]
+- Rugrats in Paris - The Movie (U) [!]
+- Rush 2 - Extreme Racing USA (U) [!]
+- RX-MM64
+- S.C.A.R.S. (U) [!]
+- San Francisco Rush - Extreme Racing (U) (M3) [!]
+- San Francisco Rush 2049 (U) [!]
+- Scooby-Doo! - Classic Creep Capers (U) [!]
+- Shadow Man (U) [!]
+- Shadowgate 64 - Trials Of The Four Towers (U) (M2) [!]
+- shuffle64
+- SNES9X
+- Snowboard Kids (U) [!]
+- Snowboard Kids 2 (U) [!]
+- South Park (U) [!]
+- South Park - Chef's Luv Shack (U) [!]
+- South Park Rally (U) [!]
+- Space Invaders (U) [!]
+- Space Station Silicon Valley (U) [!]
+- Spider-Man (U) [!]
+- Star Fox 64 (U) (V1.1) [!]
+- Star Soldier - Vanishing Earth (U) [!]
+- Star Wars - Rogue Squadron (U) (M3) [!]
+- Star Wars - Shadows of the Empire (U) (V1.2) [!]
+- Star Wars Episode I - Battle for Naboo (U) [!]
+- Star Wars Episode I - Racer (U) [!]
+- StarCraft 64 (U) [!]
+- Starshot - Space Circus Fever (U) (M3) [!]
+- Stunt Racer 64 (U) [!]
+- Super Bowling 64 (U) [!]
+- Super Mario 64 (U) [!]
+- Super Smash Bros. (U) [!]
+- Supercross 2000 (U) [!]
+- Superman (U) (M3) [!]
+- Tetrisphere (U) [!]
+- Tigger's Honey Hunt (U) [!]
+- Tom and Jerry in Fists of Furry (U) [!]
+- Tom Clancy's Rainbow Six (U) [!]
+- Tonic Trouble (U) (V1.1) [!]
+- Tony Hawk's Pro Skater (U) (V1.1) [!]
+- Tony Hawk's Pro Skater 2 (U) [!]
+- Tony Hawk's Pro Skater 3 (U)
+- Top Gear Hyper Bike (U) [!]
+- Top Gear Overdrive (U) [!]
+- Top Gear Rally (U) [!]
+- Top Gear Rally 2 (U) [!]
+- Toy Story 2 (U) [!]
+- Transformers - Beast Wars Transmetal (U) [!]
+- Triple Play 2000 (U) [!]
+- Turok - Dinosaur Hunter (U) (V1.2) [!]
+- Turok - Rage Wars (U) [!]
+- Turok 2 - Seeds of Evil (U) [!]
+- Turok 3 - Shadow of Oblivion (U) [!]
+- Twintris
+- Twisted Edge Extreme Snowboarding (U) [!]
+- V-Rally Edition 99 (U) [!]
+- Vigilante 8 (U) [!]
+- Vigilante 8 - 2nd Offense (U) [!]
+- Virtual Chess 64 (U) (M3) [!]
+- Virtual Pool 64 (U) [!]
+- VNES64
+- Waialae Country Club - True Golf Classics (U) (V1.0) [!]
+- War Gods (U) [!]
+- Wave Race 64 (U) (V1.1) [!]
+- Wayne Gretzky's 3D Hockey '98 (U) [!]
+- Wayne Gretzky's 3D Hockey (U) (V1.1) [!]
+- WCW Backstage Assault (U) [!]
+- WCW Mayhem (U) [!]
+- WCW Nitro (U) [!]
+- WCW vs. nWo - World Tour (U) (V1.1) [!]
+- WCW-nWo Revenge (U) [!]
+- Wetrix (U) (M6) [!]
+- Wheel of Fortune (U) [!]
+- WinBack - Covert Operations (U) [!]
+- Wipeout 64 (U) [!]
+- wolf64
+- World Cup 98 (U) (M8) [!]
+- World Driver Championship (U) [!]
+- Worms - Armageddon (U) (M3) [!]
+- WWF - War Zone (U) [!]
+- WWF Attitude (U) [!]
+- WWF No Mercy (U) (V1.0) [!]
+- WWF WrestleMania 2000 (U) [!]
+- Xena Warrior Princess - The Talisman of Fate (U) [!]
+- Yoshi's Story (U) (M2) [!]
+
+
+## Sega Genesis (814)
+
+- 3 Ninjas Kick Back (USA)
+- 6-Pak (USA)
+- 688 Attack Sub (USA, Europe)
+- Aaahh!!! Real Monsters (USA)
+- Action 52 (USA) (Unl)
+- Addams Family, The (USA, Europe)
+- Adventures of Batman & Robin, The (USA)
+- Adventures of Mighty Max, The (USA)
+- Adventures of Rocky and Bullwinkle and Friends, The (USA)
+- Aero the Acro-Bat (USA)
+- Aero the Acro-Bat 2 (USA)
+- Aerobiz (USA)
+- Aerobiz Supersonic (USA)
+- After Burner II (USA, Europe)
+- Air Buster (USA)
+- Air Diver (USA)
+- Al Michaels Announces HardBall III (USA, Europe)
+- Aladdin (USA)
+- Alex Kidd in the Enchanted Castle (USA)
+- Alien 3 (USA, Europe)
+- Alien Soldier (USA) (Virtual Console)
+- Alien Storm (World)
+- Alisia Dragoon (USA)
+- Altered Beast (USA, Europe)
+- American Gladiators (USA)
+- Andre Agassi Tennis (USA)
+- Angry Birds
+- Animaniacs (USA)
+- Aquatic Games Starring James Pond and the Aquabats, The (USA, Europe)
+- Arcade Classics (USA, Europe)
+- Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV (World)
+- Arcade Legends Street Fighter II' - Special Champion Edition ~ Mega Drive Play TV 3 (World)
+- Arch Rivals - The Arcade Game (USA, Europe)
+- Arcus Odyssey (USA)
+- Ariel the Little Mermaid (USA, Europe)
+- Arnold Palmer Tournament Golf (USA, Europe)
+- Arrow Flash (USA)
+- Art Alive (World)
+- Art of Fighting (USA)
+- Asterix and the Great Rescue (USA)
+- Asterix and the Power of the Gods (U)
+- Atomic Robo-Kid (USA)
+- Atomic Runner (USA)
+- ATP Tour Championship Tennis (USA)
+- Australian Rugby League (U)
+- Awesome Possum... ...Kicks Dr. Machino's Butt (USA)
+- Ayrton Senna's Super Monaco GP II (USA) (En,Ja)
+- Back to the Future Part III (USA)
+- Ball Jacks (W)
+- Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe)
+- Barbie Super Model (USA)
+- Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World)
+- Barkley Shut Up and Jam 2 (USA)
+- Barkley Shut Up and Jam! (USA, Europe)
+- Barney's Hide & Seek Game (USA)
+- Bass Masters Classic (USA)
+- Bass Masters Classic - Pro Edition (USA)
+- Batman - Revenge of the Joker (USA)
+- Batman - The Video Game (USA)
+- Batman Forever (World)
+- Batman Returns (World)
+- Battle Frenzy (U)
+- Battle Mania - Daiginjou
+- Battle Squadron (USA, Europe)
+- Battlemaster (USA)
+- BattleTech - A Game of Armored Combat (USA)
+- Battletoads (World)
+- Battletoads-Double Dragon (USA)
+- Beast Wrestler (USA)
+- Beauty and the Beast - Belle's Quest (USA)
+- Beauty and the Beast - Roar of the Beast (USA)
+- Beavis and Butt-Head (USA)
+- Beggar Prince
+- Berenstain Bears' Camping Adventure, The (USA)
+- BERZERK
+- Best of the Best - Championship Karate (USA)
+- Beyond Oasis (USA)
+- Bible Adventures (USA) (Unl)
+- Bill Walsh College Football (USA, Europe)
+- Bill Walsh College Football 95 (USA)
+- Bimini Run (USA)
+- Bio Hazard Battle (USA, Europe)
+- Blades of Vengeance (USA, Europe)
+- Blaster Master 2 (USA)
+- Blockbuster World Video Game Championship II (USA)
+- Blockout (World)
+- Body Count (U)
+- Bomboy
+- Bonkers (USA, Europe)
+- Boogerman - A Pick and Flick Adventure (USA)
+- Boxing Legends of the Ring (USA)
+- Bram Stoker's Dracula (USA)
+- Brave Battle Saga Legend of the Magic Warrior
+- Brett Hull Hockey 95 (USA)
+- Brian Lara Cricket (U)
+- Brian Lara Cricket 96 (U)
+- Brutal - Paws of Fury (USA)
+- Bubba 'N' Stix (USA)
+- Bubble and Squeak (USA)
+- Bubsy II (USA, Europe)
+- Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)
+- Buck Rogers - Countdown to Doomsday (USA, Europe)
+- Budokan - The Martial Spirit (USA) (Unl)
+- Bugs Bunny in Double Trouble (USA)
+- Burning Force (USA)
+- Cadash (USA, Korea)
+- Caesars Palace (USA)
+- Cal Ripken Jr. Baseball (USA)
+- Caliber.50 (USA)
+- California Games (USA, Europe)
+- Captain America and the Avengers (USA)
+- Cascade (World) (Unl)
+- Castle of Illusion Starring Mickey Mouse (USA, Europe)
+- Castlevania - Bloodlines (USA)
+- Cave Story
+- CDX Pro (World) (v1.8I) (Program) (Unl)
+- Centurion - Defender of Rome (USA, Europe)
+- Chakan (USA, Europe)
+- Champions World Class Soccer (World) (En,Fr,De,Es)
+- Championship Bowling (USA)
+- Championship Pool (USA)
+- Championship Pro-Am (USA)
+- Chase H.Q. II (USA)
+- Chester Cheetah - Too Cool to Fool (USA)
+- Chester Cheetah - Wild Wild Quest (USA)
+- Chi Chi's Pro Challenge Golf (USA)
+- Chiki Chiki Boys (USA, Europe)
+- Chuck Rock (USA)
+- Chuck Rock II - Son of Chuck (USA)
+- Clan of Heroes - Generals of the Yang Family
+- ClayFighter (USA)
+- Cliffhanger (USA)
+- Clue (USA)
+- Coach K College Basketball (USA)
+- Coffee Crisis
+- College Football USA 96 (USA)
+- College Football USA 97 (USA)
+- College Football's National Championship (USA)
+- College Football's National Championship II (USA)
+- College Slam (USA)
+- Columns (USA, Europe)
+- Columns III (USA)
+- Combat Cars (USA, Europe)
+- Comix Zone (USA)
+- Contra - Hard Corps (USA, Korea)
+- Cool Spot (USA)
+- Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)
+- Crack Down (USA)
+- CrossFire (USA)
+- Crue Ball - Heavy Metal Pinball (USA, Europe)
+- Crusader of Centy (USA)
+- Crystal's Pony Tale (USA)
+- CutThroat Island (USA, Europe)
+- Cyber-Cop (USA)
+- Cyberball (World)
+- Cyborg Justice (USA, Europe)
+- Daffy Duck in Hollywood (U)
+- Daimakaimura ~ Ghouls'n Ghosts (World)
+- Darius (World) (Genesis Mini, Mega Drive Mini)
+- Dark Castle (USA, Europe)
+- Dashin' Desperadoes (USA)
+- David Crane's Amazing Tennis (USA)
+- David Robinson's Supreme Court (USA, Europe)
+- Davis Cup Tennis ~ Davis Cup World Tour (USA, Europe)
+- Daze Before Christmas (U)
+- Deadly Moves (USA)
+- Death and Return of Superman, The (USA)
+- Death Duel (USA)
+- DEcapAttack (USA, Europe, Korea)
+- Demolition Man (USA, Europe)
+- Desert Demolition Starring Road Runner and Wile E. Coyote (USA, Europe)
+- Desert Strike - Return to the Gulf (USA, Europe)
+- Devilish - The Next Possession (USA)
+- Dick Tracy (World)
+- Dick Vitale's 'Awesome, Baby!' College Hoops (USA)
+- Dino Dini's Soccer (U)
+- Dino Land (USA)
+- Dinosaur's Tale, A (USA)
+- DJ Boy (USA)
+- Donald in Maui Mallard (U)
+- Doom Troopers (USA)
+- Double Clutch (U)
+- Double Dragon
+- Double Dragon 3 - The Arcade Game (USA, Europe)
+- Double Dragon V - The Shadow Falls (USA)
+- Double Dribble - The Playoff Edition (USA)
+- Dr. Robotnik's Mean Bean Machine (USA)
+- Dragon - The Bruce Lee Story (USA)
+- Dragon Ball Final Bout (Pirate)
+- Dragon's Fury (USA, Europe)
+- Dragon's Revenge (USA, Europe)
+- Dune - The Battle for Arrakis (USA)
+- Dungeons & Dragons - Warriors of the Eternal Sun (USA, Europe)
+- Dynamite Duke (World)
+- Dynamite Headdy (USA, Europe)
+- EA Sports Double Header - EA Hockey & John Madden Football (U)
+- Earnest Evans (USA)
+- Earth Defense ~ Earth Defend, The (USA, Asia) (Unl)
+- Earthworm Jim (USA)
+- Earthworm Jim 2 (USA)
+- Ecco - The Tides of Time (USA)
+- Ecco Jr. (USA, Australia)
+- Ecco the Dolphin (USA, Europe, Korea)
+- El.Viento (USA)
+- Elemental Master (USA)
+- Eliminate Down
+- Escape 2042 - The Truth Defenders
+- ESPN Baseball Tonight (USA)
+- ESPN National Hockey Night (USA)
+- ESPN Speed World (USA)
+- ESPN Sunday Night NFL (USA)
+- Eternal Champions (USA)
+- European Club Soccer (U)
+- Evander Holyfield's 'Real Deal' Boxing (World)
+- Ex-Mutants (USA, Europe)
+- Exile (USA)
+- Exo Squad (USA)
+- Exodus - Journey to the Promised Land (USA) (Unl)
+- F-117 Night Storm (USA, Europe)
+- F-15 Strike Eagle II (USA)
+- F-22 Interceptor - Advanced Tactical Fighter (USA) (F-205)
+- F1 World Championship (U)
+- Faery Tale Adventure, The (USA, Europe)
+- Family Feud (USA)
+- Fantasia (World)
+- Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)
+- Fatal Fury (USA)
+- Fatal Fury 2 (USA, Korea)
+- Fatal Labyrinth (USA, Europe)
+- Fatal Rewind (USA, Europe)
+- Ferrari Grand Prix Challenge (USA)
+- FIFA 98 - Road to World Cup (U)
+- FIFA International Soccer (USA, Europe) (En,Fr,De,Es)
+- FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)
+- FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es,It,Sv)
+- FIFA Soccer 97 (USA, Europe) (En,Fr,De,Es,It,Sv)
+- Fighting Masters (USA)
+- Fire Shark (USA)
+- Fix-It Felix, Jr
+- Flashback - The Quest for Identity (USA) (En,Fr)
+- Flicky (USA, Europe)
+- Flink (U)
+- Flintstones, The (USA) (Taito)
+- Foreman for Real (World)
+- Forgotten Worlds (World)
+- Formula One (USA)
+- Frank Thomas Big Hurt Baseball (USA, Europe)
+- Frogger (USA)
+- Fun 'n' Games (USA)
+- Funny World & Balloon Boy (USA) (Unl)
+- FX-Unit Yuki - The Henshin Engine
+- FZ Senki Axis ~ Final Zone (Japan, USA)
+- G-LOC - Air Battle (World)
+- Gadget Twins (USA)
+- Gaiares (Japan, USA)
+- Gain Ground (USA)
+- Galaxy Force II (USA, Europe) (Steam Version)
+- Game Genie (USA, Europe) (Program)
+- Garfield - Caught in the Act (USA, Europe)
+- Gargoyles (USA)
+- Garry Kitchen's Super Battletank - War in the Gulf (USA)
+- Gauntlet IV (USA, Europe)
+- Gemfire (USA)
+- General Chaos (USA, Europe)
+- Generals of the Yang Family (World) (Unl)
+- Generations Lost (USA, Europe)
+- Genghis Khan II - Clan of the Gray Wolf (USA)
+- George Foreman's KO Boxing (USA)
+- Ghostbusters (USA, Europe)
+- Gods (USA)
+- Golden Axe (World)
+- Golden Axe II (World)
+- Golden Axe III
+- Goofy's Hysterical History Tour (USA)
+- Granada (Japan, USA)
+- Great Circus Mystery Starring Mickey & Minnie, The (USA)
+- Great Waldo Search, The (USA)
+- Greatest Heavyweights (USA)
+- Greendog - The Beached Surfer Dude! (USA, Europe)
+- Griel's Quest for the Holy Porron
+- Grind Stormer (USA)
+- Growl (USA)
+- Gunship (U)
+- Gunstar Heroes (USA)
+- Hard Drivin' (World)
+- HardBall '94 (USA, Europe)
+- HardBall '95 (USA)
+- HardBall!
+- Haunting Starring Polterguy (USA, Europe)
+- Head-On Soccer (USA)
+- Heavy Nova (USA)
+- Hellfire (USA)
+- Herzog Zwei (USA, Europe)
+- High Seas Havoc (USA)
+- Hit the Ice - VHL - The Official Video Hockey League (USA)
+- Home Alone (USA, Europe)
+- Home Alone 2 - Lost in New York (USA)
+- Hook (USA)
+- Humans, The (USA)
+- Hurricanes (U)
+- IMG International Tour Tennis (USA, Europe)
+- Immortal, The (USA, Europe)
+- Incredible Crash Dummies, The (USA, Europe)
+- Incredible Hulk, The (USA, Europe)
+- Indiana Jones and the Last Crusade (USA)
+- Insector X (USA)
+- Instruments of Chaos Starring Young Indiana Jones (USA)
+- International Rugby (U)
+- International Superstar Soccer Deluxe (U)
+- Ishido - The Way of Stones (USA) (Unl)
+- Izzy's Quest for the Olympic Rings (USA, Europe)
+- Jack Nicklaus' Power Challenge Golf (USA, Europe)
+- James 'Buster' Douglas Knockout Boxing (USA, Europe)
+- James Bond 007 - The Duel (USA)
+- James Pond - Underwater Agent (USA, Europe)
+- James Pond 3 (USA, Europe)
+- James Pond II - Codename - Robocod (USA, Europe)
+- Jammit (USA)
+- Jennifer Capriati Tennis (USA)
+- Jeopardy! (USA)
+- Jeopardy! - Deluxe Edition (USA)
+- Jeopardy! - Sports Edition (USA)
+- Jerry Glanville's Pigskin Footbrawl (USA)
+- Jewel Master (USA, Europe)
+- Jimmy White's Whirlwind Snooker (U)
+- Joe & Mac (USA)
+- Joe Montana Football (World)
+- Joe Montana II Sports Talk Football (World)
+- John Madden Football '92 (USA, Europe)
+- John Madden Football '93 (USA, Europe)
+- John Madden Football (USA, Europe)
+- John Madden Football - Championship Edition (USA)
+- Jordan vs Bird (USA, Europe)
+- Joshua & the Battle of Jericho (USA) (Unl)
+- Journey from Darkness - Strider Returns (USA)
+- Joystick Test Program
+- Judge Dredd (World)
+- Junction (Japan, USA)
+- Jungle Book, The (USA)
+- Jungle Strike (USA, Europe)
+- Jurassic Park (USA)
+- Jurassic Park - Rampage Edition (USA, Europe)
+- Justice League Task Force (World)
+- Ka-Ge-Ki - Fists of Steel (USA)
+- Kawasaki Superbike Challenge (USA, Europe)
+- Kick Off 3 - European Challenge (U)
+- Kid Chameleon (USA, Europe)
+- King of the Monsters (USA)
+- King of the Monsters 2 (USA)
+- King Salmon - The Big Catch (USA)
+- King's Bounty - The Conqueror's Quest (USA, Europe)
+- Klax (USA, Europe) (Tengen)
+- Krusty's Super Fun House (USA, Europe)
+- L'Abbaye des Morts
+- La Russa Baseball 95 (USA, Australia)
+- Landstalker (USA)
+- Langrisser II
+- Last Action Hero (USA, Europe)
+- Last Battle (USA, Europe, Korea)
+- Lawnmower Man, The (USA, Europe)
+- Legend of Galahad, The ~ Galahad (USA, Europe)
+- Legend of Wukong
+- Lemmings (Japan, USA)
+- Lemmings 2 - The Tribes (USA)
+- Lethal Enforcers (USA)
+- Lethal Enforcers II - Gun Fighters (USA)
+- LHX Attack Chopper (USA, Europe)
+- Liberty or Death (USA)
+- Light Crusader (USA)
+- Lightening Force - Quest for the Darkstar (USA)
+- Lion King, The (World)
+- Little Medusa
+- Lost Vikings, The (USA) (October, 1995)
+- Lost World, The - Jurassic Park (USA, Europe)
+- Lotus II (USA, Europe)
+- Lotus Turbo Challenge (USA, Europe)
+- M-1 Abrams Battle Tank (USA, Europe)
+- Madden NFL '94 (USA, Europe)
+- Madden NFL 95 (USA, Europe)
+- Madden NFL 96 (USA, Europe)
+- Madden NFL 97 (USA, Europe)
+- Madden NFL 98 (USA)
+- Magic Girl Featuring Ling Ling the Little Witch
+- Magic Pockets
+- Magic School Bus, The - Space Exploration Game (USA)
+- Mallet Legend's Whac-a-Critter ~ Mallet Legend (USA, Asia) (Unl)
+- Man Overboard! (U)
+- Marble Madness (USA, Europe)
+- Mario Andretti Racing (USA, Europe)
+- Mario Lemieux Hockey (USA, Europe)
+- Marko (USA)
+- Marsupilami (USA) (En,Fr,De,Es,It)
+- Marvel Land (USA)
+- Mary Shelley's Frankenstein (USA)
+- Master of Monsters (USA)
+- Math Blaster - Episode 1 (USA)
+- Mazin Saga - Mutant Fighter (USA)
+- McDonald's Treasure Land Adventure (USA)
+- Mega Bomberman (USA)
+- Mega Games 2 (U)
+- Mega Games 3 (U)
+- Mega Games 6 Vol. 1 (U)
+- Mega Games 6 Vol. 2 (U)
+- Mega Games 6 Vol. 3 (U)
+- Mega Man - The Wily Wars (USA) (Genesis Mini)
+- Mega Qbert
+- Mega SWIV (U)
+- Mega Turrican (USA)
+- Menacer - 6-Game Cartridge (USA, Europe)
+- Mick & Mack as the Global Gladiators (USA)
+- Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)
+- Mickey's Ultimate Challenge (USA)
+- Micro Machines (USA)
+- Micro Machines - Turbo Tournament 96 (U)
+- Micro Machines 2 - Turbo Tournament (U)
+- Micro Machines Military - It's a Blast! (U)
+- Midnight Resistance (USA)
+- Mig-29 Fighter Pilot (USA)
+- Might and Magic - Gates to Another World (USA, Europe)
+- Mighty Morphin Power Rangers (USA)
+- Mighty Morphin Power Rangers - The Movie (USA)
+- Mike Ditka Power Football (USA, Europe) (Unl)
+- Minnesota Fats - Pool Legend (USA)
+- Miracle Piano Teaching System, The (USA)
+- MLBPA Baseball (USA)
+- Monopoly (USA)
+- Monster World IV (USA) (Genesis Mini)
+- Mortal Kombat (World)
+- Mortal Kombat 3 (USA)
+- Mortal Kombat II (World)
+- Mr. Nutz (U)
+- Ms. Pac-Man (USA, Europe)
+- Muhammad Ali Heavyweight Boxing (USA)
+- MUSHA - Metallic Uniframe Super Hybrid Armor (USA)
+- Mutant League Football (USA, Europe)
+- Mutant League Hockey (USA, Europe)
+- Mystic Defender (USA, Europe)
+- Mystical Fighter (USA)
+- Nadia - The Secret of the Blue Water
+- NCAA Final Four Basketball (USA)
+- NCAA Football (USA)
+- New Horizons (USA)
+- Newman Haas IndyCar featuring Nigel Mansell (World)
+- NFL '95 (USA)
+- NFL 98 (USA)
+- NFL Football '94 Starring Joe Montana (USA)
+- NFL Quarterback Club (World)
+- NFL Quarterback Club 96 (USA, Europe)
+- NFL Sports Talk Football '93 Starring Joe Montana (USA, Europe)
+- Nigel Mansell's World Championship Racing (USA)
+- No Escape (USA)
+- Nobunaga's Ambition (USA)
+- Normy's Beach Babe-O-Rama (USA, Europe)
+- Oh Mummy Genesis
+- Old Towers
+- Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv)
+- Olympic Summer Games (USA, Europe)
+- Onslaught (USA, Europe) (Unl)
+- Ooze, The (Japan, USA)
+- Operation Europe - Path to Victory 1939-45 (USA)
+- Out of This World (USA)
+- Outlander (USA)
+- OutRun (USA, Europe)
+- OutRun 2019 (USA)
+- OutRunners (USA)
+- P.T.O. - Pacific Theater of Operations (USA)
+- Pac-Attack (USA)
+- Pac-Man 2 - The New Adventures (USA)
+- Pac-Mania (USA, Europe)
+- Pagemaster, The (USA)
+- Panorama Cotton (USA)
+- Paperboy (USA, Europe)
+- Paperboy 2 (USA, Europe)
+- Papi Commando
+- Pat Riley Basketball (USA)
+- Pebble Beach Golf Links (USA)
+- Pele II - World Tournament Soccer (USA, Europe)
+- Pele! (USA, Europe)
+- Pete Sampras Tennis (USA, Europe) (MDST6636) (J-Cart)
+- PGA European Tour (USA, Europe)
+- PGA Tour 96 (USA, Europe)
+- PGA Tour Golf (USA, Europe) (PGA09)
+- PGA Tour Golf II (USA, Europe)
+- PGA Tour Golf III (USA, Europe)
+- Phantasy Star II (USA, Europe)
+- Phantasy Star III - Generations of Doom (USA, Europe) (Steam Version)
+- Phantasy Star IV (USA)
+- Phantom 2040 (USA)
+- Phelios (USA)
+- Pier Solar and the Great Architects
+- Pink Goes to Hollywood (USA, Europe)
+- Pinocchio (USA)
+- Pirates of Dark Water, The (USA)
+- Pirates! Gold (USA)
+- Pit-Fighter (World) (En,Ja)
+- Pitfall - The Mayan Adventure (USA)
+- Pocahontas (USA)
+- Populous (USA) (Unl)
+- Power Drive (U)
+- Power Monger (USA, Europe)
+- Powerball (USA)
+- Predator 2 (USA, Europe)
+- Premier Manager (U)
+- Premier Manager 97 (U)
+- Primal Rage (USA, Europe)
+- Prime Time NFL Starring Deion Sanders (USA)
+- Prince of Persia (USA)
+- Pringles
+- Pringles - The Game
+- Pro Moves Soccer (USA)
+- Pro Quarterback (USA)
+- Project MD
+- Psy-O-Blade (JU)
+- Psycho Pinball (U)
+- Puggsy (USA)
+- Punisher, The (USA)
+- QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World)
+- Quad Challenge (USA)
+- R.B.I. Baseball '93 (USA)
+- R.B.I. Baseball '94 (USA, Europe)
+- R.B.I. Baseball 3 (USA)
+- R.B.I. Baseball 4 (USA)
+- Race Drivin' (USA)
+- Radical Rex (USA)
+- Raiden Densetsu ~ Raiden Trad (Japan, USA)
+- Rainbow Islands - The Story of Bubble Bobble 2 (JU) [b1]
+- Rampart (USA)
+- Ranger X (USA)
+- Rastan Saga II (USA)
+- Red Zone (USA, Europe)
+- Ren & Stimpy Show Presents, The - Stimpy's Invention (USA)
+- Revenge of Shinobi, The (USA, Europe)
+- Revolution X (USA, Europe)
+- Richard Scarry's Busytown (USA)
+- Rings of Power (USA, Europe)
+- Rise of the Robots (U)
+- Risk (USA)
+- Risky Woods (USA, Europe)
+- Ristar (USA, Europe)
+- Road Rash (USA, Europe)
+- Road Rash 3 (USA, Europe)
+- Road Rash II (USA, Europe) (RR206)
+- RoadBlasters (USA)
+- RoboCop 3 (USA, Europe)
+- RoboCop versus The Terminator (USA)
+- Rock n' Roll Racing (USA)
+- Rocket Knight Adventures (USA)
+- Roger Clemens' MVP Baseball (USA)
+- Rolling Thunder 2 (USA)
+- Rolling Thunder 3 (USA)
+- Rolo to the Rescue (USA, Europe)
+- Romance of the Three Kingdoms II (USA)
+- Romance of the Three Kingdoms III - Dragon of Destiny (USA)
+- Rugby World Cup 95 (USA, Europe) (En,Fr,It)
+- Sagaia (USA)
+- Sailor Moon (JU)
+- Saint Sword (USA)
+- Sampras Tennis 96 (U)
+- Samurai Shodown (USA)
+- Saturday Night Slammasters (USA)
+- Scooby-Doo Mystery (USA)
+- seaQuest DSV (USA)
+- Second Samurai (U)
+- Sega Master System Brawl
+- Sega Sound Tool (USA) (v2.2) (Program)
+- Sega Sports 1 - Super Monaco + Wimbledon + Ultimate Soccer (U)
+- Senjou no Ookami II ~ Mercs (World)
+- Sensible Soccer - European Champions (U)
+- Sensible Soccer - International Edition (U)
+- Sesame Street Counting Cafe (USA)
+- Shadow Blasters (USA)
+- Shadow Dancer - The Secret of Shinobi (World)
+- Shadow of the Beast (USA, Europe)
+- Shadow of the Beast II (USA, Europe)
+- Shadowrun (USA)
+- Shane Warne Cricket (U)
+- Shanghai II - Dragon's Eye (USA)
+- Shaq-Fu (USA, Europe)
+- Shining Force (USA)
+- Shining Force II (USA)
+- Shining in the Darkness (USA, Europe)
+- Shinobi III - Return of the Ninja Master (USA)
+- Shove It! ...The Warehouse Game (USA)
+- Side Pocket (USA)
+- Simpsons, The - Bart vs. the Space Mutants (USA, Europe)
+- Simpsons, The - Bart's Nightmare (USA, Europe)
+- Skeleton Krew (USA)
+- Skitchin' (USA, Europe)
+- Slaughter Sport (USA)
+- Smart Mouse (World) (Unl)
+- SMB4MD
+- Snow Bros. - Nick & Tom
+- Socket (USA)
+- Sol-Deace (USA)
+- Soldiers of Fortune (USA)
+- Sonic & Knuckles (World)
+- Sonic & Knuckles + Sonic The Hedgehog (USA, Europe)
+- Sonic & Knuckles + Sonic The Hedgehog 2 (World)
+- Sonic & Knuckles + Sonic The Hedgehog 2 + Sonic The Hedgehog 3 (World) (Virtual Console)
+- Sonic & Knuckles + Sonic The Hedgehog 3 (USA)
+- Sonic 3 Complete
+- Sonic 3D Blast - Director's Cut (World) (Unl)
+- Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea)
+- Sonic All-Stars
+- Sonic Classic Heroes
+- Sonic Spinball (USA)
+- Sonic The Hedgehog (USA, Europe)
+- Sonic The Hedgehog 2 (World)
+- Sonic The Hedgehog 3 (USA)
+- Sorcerer's Kingdom (USA)
+- Space Harrier II (World)
+- Space Invaders '91 (USA)
+- Sparkster (USA)
+- Speedball 2 - Brutal Deluxe (USA)
+- Spider-Man (USA, Europe) (Acclaim)
+- Spider-Man (World) (Sega)
+- Spider-Man . Venom - Maximum Carnage (World)
+- Spiritual Warfare (USA) (Unl)
+- Spirou (U)
+- Splatterhouse 2 (USA)
+- Splatterhouse 3 (USA)
+- Sports Talk Baseball (USA)
+- Spot Goes to Hollywood (USA)
+- Star Control
+- Star Odyssey
+- Star Trek - Deep Space Nine - Crossroads of Time (USA)
+- Star Trek - The Next Generation - Echoes from the Past (USA)
+- Starflight (USA, Europe)
+- Stargate (USA, Europe)
+- Steel Empire (USA)
+- Steel Talons (USA, Europe)
+- Stormlord (USA)
+- Street Fighter II' - Special Champion Edition (USA)
+- Street Smart (Japan, USA)
+- Streets of Rage 2 (USA)
+- Streets of Rage 3 (USA)
+- Strider (USA, Europe)
+- Striker (U)
+- Sub-Terrania (USA)
+- Summer Challenge (USA, Europe) (Unl)
+- Sunset Riders (USA)
+- Super Baseball 2020 (USA, Europe)
+- Super Battleship - The Classic Naval Combat Game (USA)
+- Super Fantasy Zone (USA) (En) (Genesis Mini)
+- Super Hang-On (World) (En,Ja)
+- Super High Impact (USA)
+- Super Hydlide (USA)
+- Super Kick Off (U)
+- Super Mario Bros
+- Super Monaco GP (USA) (En,Ja)
+- Super Off Road
+- Super Skidmarks (U)
+- Super Smash T.V. (USA, Europe)
+- Super Street Fighter II (USA)
+- Super Thunder Blade (World)
+- Super Volleyball (USA)
+- Superman (USA)
+- Switchblade
+- Sword of Sodan (USA, Europe)
+- Sword of Vermilion (USA, Europe)
+- Syd of Valis (USA)
+- Sylvester and Tweety in Cagey Capers ~ Sylvester & Tweety in Cagey Capers (USA, Europe)
+- Syndicate (USA, Europe)
+- T-Gun II
+- T2 - Terminator 2 - Judgment Day (USA, Europe)
+- T2 - The Arcade Game (USA, Europe)
+- TaleSpin (USA, Europe)
+- Tanglewood
+- Tanzer
+- Target Earth (USA)
+- Task Force Harrier EX (USA)
+- Tatsujin ~ Truxton (World)
+- Taz in Escape from Mars (USA)
+- Taz-Mania (World)
+- Team USA Basketball (USA, Europe)
+- TechnoClash (USA, Europe)
+- Technocop (USA)
+- Tecmo Super Baseball (USA)
+- Tecmo Super Bowl (USA)
+- Tecmo Super Bowl II - Special Edition (USA)
+- Tecmo Super Bowl III - Final Edition (USA)
+- Tecmo Super Hockey (USA)
+- Tecmo World Cup (USA)
+- Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)
+- Teenage Mutant Ninja Turtles - Tournament Fighters (USA)
+- Terminator, The (USA)
+- Test Drive II - The Duel (USA, Europe) (Unl)
+- Tetris (World) (Genesis Mini, Mega Drive Mini)
+- Tetrogen Classic
+- The Disney Collection - Castle of Illusion Starring Mickey Mouse & QuackShot Starring Donald Duck (U)
+- The Ottifants (U)
+- The Smurfs (U)
+- The Smurfs Travel the World (U)
+- Theme Park (USA, Europe)
+- Thomas the Tank Engine & Friends (USA)
+- Thunder Force II (USA, Europe)
+- Thunder Force III (Japan, USA)
+- Thunder Fox (USA)
+- Thunderbolt II
+- Tick, The (USA)
+- Time Killers (USA)
+- Tinhead (USA) (Spectrum HoloByte) (October, 1995)
+- Tintin in Tibet (U) (M6)
+- Tiny Toon Adventures - ACME All-Stars (USA, Korea)
+- Tiny Toon Adventures - Buster's Hidden Treasure (USA)
+- TNN Bass Tournament of Champions (USA)
+- TNN Outdoors Bass Tournament '96 (USA)
+- Todd's Adventures in Slime World (USA)
+- ToeJam & Earl (USA, Europe, Korea)
+- ToeJam & Earl in Panic on Funkotron (USA)
+- Toki - Going Ape Spit (USA, Europe)
+- Tom and Jerry - Frantic Antics! (USA)
+- Tom Mason's Dinosaurs for Hire (USA)
+- Tommy Lasorda Baseball (USA)
+- Tony La Russa Baseball (USA, Australia)
+- Top Gear 2 (USA)
+- Total Football (U)
+- Toughman Contest (USA, Europe)
+- Tougi-Ou - King Colossus
+- Toxic Crusaders (USA)
+- Toy Story (USA)
+- Toys - Let the Toy Wars begin! (USA)
+- Trampoline Terror! (USA)
+- Traysia (USA)
+- Triple Play - Gold Edition (USA)
+- Triple Play 96 (USA)
+- Trouble Shooter (USA)
+- Troy Aikman NFL Football (USA)
+- True Lies (World)
+- Turbo OutRun (W)
+- Turrican
+- Twin Cobra - Desert Attack Helicopter (USA)
+- Twin Hawk (U) [!]
+- Twinkle Tale (JU)
+- Two Crude Dudes (USA)
+- Two Tribes - Populous II (U)
+- Tyrants - Fight through Time (USA)
+- Ultimate Mortal Kombat 3 (USA)
+- Ultimate QIX (USA)
+- Ultimate Soccer (U)
+- Ultracore (USA)
+- Uncharted Waters (USA)
+- Undead Line
+- Universal Soldier (USA, Europe) (Unl)
+- Unnecessary Roughness '95 (USA)
+- Urban Strike (USA, Europe)
+- Valis (USA)
+- Valis III (USA)
+- Vapor Trail (USA)
+- Vectorman (USA, Europe)
+- Vectorman 2 (USA)
+- Venom . Spider-Man - Separation Anxiety (USA, Europe)
+- Viewpoint (USA)
+- Virtua Fighter 2 (USA, Europe)
+- Virtua Racing (USA)
+- Virtual Bart (World)
+- Virtual Pinball (USA, Europe)
+- VR Troopers (USA, Europe)
+- Wacky Worlds Creativity Studio (USA)
+- Wardner (USA)
+- Warlock (USA, Europe)
+- WarpSpeed (USA, Europe) (Unl)
+- Warrior of Rome (USA)
+- Warrior of Rome II (USA)
+- Warsong (USA)
+- Water Margin - A Tale of Clouds and Wind
+- Water Margin - The Tales of Clouds and Winds (USA) (Unl)
+- Wayne's World (USA)
+- WeaponLord (USA)
+- Wheel of Fortune (USA)
+- Where in the World Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)
+- Where in Time Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)
+- Whip Rush (USA)
+- Williams Arcade's Greatest Hits (USA)
+- Wimbledon Championship Tennis (USA)
+- Wings of Wor (USA)
+- Winter Challenge (USA, Europe) (Unl)
+- Winter Olympic Games (USA) (En,Fr,De,Es,It,Pt,Sv,No)
+- Wiz 'N' Liz (USA)
+- Wolfchild (USA)
+- Wolverine - Adamantium Rage (USA, Europe)
+- Wonder Boy III - Monster Lair (U) [c][!]
+- Wonder Boy in Monster World (USA, Europe)
+- World Championship Soccer II (USA)
+- World Class Leaderboard Golf (USA)
+- World Cup Soccer ~ World Championship Soccer (Japan, USA)
+- World Cup USA 94 (USA, Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv)
+- World Heroes (USA)
+- World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea)
+- World Series Baseball '95 (USA)
+- World Series Baseball '96 (USA)
+- World Series Baseball (USA)
+- World Series Baseball 98 (USA)
+- World Trophy Soccer (USA)
+- Worms (U)
+- Wrestle War (W)
+- WWF Raw (World)
+- WWF Royal Rumble (World)
+- WWF Super WrestleMania (USA, Europe)
+- WWF WrestleMania - The Arcade Game (USA, Europe)
+- X-Men (USA)
+- X-Men 2 - Clone Wars (USA, Europe)
+- X-Perts (USA)
+- Xeno Crisis
+- Xenon 2 - Megablast (U)
+- Ys III (USA)
+- Yuu Yuu Hakusho - Sunset Fighters (JU)
+- Zany Golf (USA, Europe)
+- Zero the Kamikaze Squirrel (USA)
+- Zero Wing (U)
+- Zombies Ate My Neighbors (USA)
+- Zool - Ninja of the 'Nth' Dimension (USA)
+- Zoom! (World)
+- Zoop (USA)
+
+## Super Nintendo (948)
+
+- 2020 Super Baseball (U)
+- 3 Ninjas Kick Back (U)
+- 7th Saga, The (U) [!]
+- A Bug's Life
+- A.S.P. Air Strike Patrol (U)
+- AAAHH!!! Real Monsters (U) [!]
+- ABC Monday Night Football (U)
+- Accelebrid
+- Ace o Nerae!
+- ACME Animation Factory (U)
+- ActRaiser (U) [!]
+- ActRaiser 2 (U) [!]
+- AD&D - Eye of the Beholder (U) [!]
+- Addams Family Values (U) [!]
+- Addams Family, The (U) [!]
+- Addams Family, The - Pugsley's Scavenger Hunt (U)
+- Adventures of Batman & Robin, The (U)
+- Adventures of Dr. Franken, The (U)
+- Adventures of Kid Kleets, The (U) [!]
+- Adventures of Rocky and Bullwinkle and Friends, The (U)
+- Aero Fighters (U)
+- Aero the Acro-Bat (U) [!]
+- Aero the Acro-Bat 2 (U)
+- Aerobiz (U) [!]
+- Aerobiz Supersonic (U)
+- Air Cavalry (U)
+- Al Unser Jr's Road to the Top (U)
+- Aladdin (U) [!]
+- Aladdin 2000
+- Alcahest
+- Alien 3 (U) [!]
+- Alien vs. Predator (U)
+- American Gladiators (U)
+- American Tail, An - Fievel Goes West (U)
+- Ancient Magic - Bazoo! Mahou Sekai
+- Andre Agassi Tennis (U) [!]
+- Animaniacs (U) [!]
+- Arabian Nights - Sabaku no Seirei Ou
+- Arcade's Greatest Hits (U) [!]
+- Arcade's Greatest Hits - The Atari Collection 1 (U)
+- Arcana (U)
+- Ardy Lightfoot (U)
+- Arkanoid - Doh It Again (U) [!]
+- Art of Fighting (U)
+- Ashita no Joe
+- Assault Suits Valken
+- Axelay (U) [!]
+- B.O.B. (U) [!]
+- Bahamut Lagoon
+- Bahamut Lagoon (ENG) # SNES
+- Ball Bullet Gun
+- Ballz 3D (U) [!]
+- Bananas de Pijamas
+- Barbie Super Model (U)
+- Barbie Vacation Adventure (U)
+- Barkley Shut Up and Jam! (U)
+- Bass Masters Classic (U)
+- Bass Masters Classic - Pro Edition (U) [!]
+- Bassin's Black Bass (U)
+- Bastard!! - Ankoku no Hakaishin
+- Batman - Revenge of the Joker (U)
+- Batman Forever (U) [!]
+- Batman Returns (U) [!]
+- Battle Blaze (U) [!]
+- Battle Cars (U) [!]
+- Battle Clash (U) [!]
+- Battle Grand Prix (U)
+- Battle Soccer - Field no Hasha
+- Battletoads & Double Dragon - The Ultimate Team (U) [!]
+- Battletoads in Battlemaniacs (U) [!]
+- Bazooka Blitzkrieg (U)
+- Beauty and the Beast (U)
+- Beavis and Butt-head (U) [!]
+- Bebe's Kids (U) [!]
+- Beethoven's 2nd (U)
+- Best of the Best - Championship Karate (U)
+- Big Sky Trooper (U) [!]
+- Biker Mice From Mars (U) [!]
+- Bill Laimbeer's Combat Basketball (U) [!]
+- Bill Walsh College Football (U) [!]
+- Bio Metal (U) [!]
+- Bishoujo Senshi Sailor Moon - Another Story
+- Bishoujo Senshi Sailor Moon R
+- Blackthorne (U) [!]
+- Blazeon (U)
+- Blues Brothers, The (U) [!]
+- Bobby's World (U)
+- Bonkers (U)
+- Boogerman - A Pick and Flick Adventure (U) [!]
+- Boxing Legends of the Ring (U)
+- Brain Lord (U) [!]
+- Brainies, The (U)
+- Bram Stoker's Dracula (U)
+- Brandish (U) [!]
+- Brandish 2 - The Planet Buster
+- Brawl Brothers (U) [!]
+- BreakThru! (U)
+- Breath of Fire (U) [!]
+- Breath of Fire II (U) [!]
+- Brett Hull Hockey '95 (U)
+- Brett Hull Hockey (U) [!]
+- Bronkie Health Hero (U)
+- Brunswick World Tournament of Champions (U)
+- Brutal - Paws of Fury (U)
+- BS Zelda no Densetsu - Dai 1 Hanashi
+- BS Zelda no Densetsu - Dai 2 Hanashi
+- BS Zelda no Densetsu - Dai 3 Hanashi
+- BS Zelda no Densetsu - Dai 4 Hanashi
+- BS Zelda no Densetsu - Map 2 - Dai 1 Hanashi
+- BS Zelda no Densetsu - Map 2 - Dai 2 Hanashi
+- BS Zelda no Densetsu - Map 2 - Dai 3 Hanashi
+- BS Zelda no Densetsu - Map 2 - Dai 4 Hanashi
+- BS Zelda no Densetsu Inishie no Sekiban Dai 1 Wa
+- BS Zelda no Densetsu Inishie no Sekiban Dai 2 Wa
+- BS Zelda no Densetsu Inishie no Sekiban Dai 3 Wa
+- BS Zelda no Densetsu Inishie no Sekiban Dai 4 Wa
+- Bubsy II (U)
+- Bubsy in Claws Encounters of the Furred Kind (U) [!]
+- Bugs Bunny - Rabbit Rampage (U) [!]
+- Bulls Vs Blazers and the NBA Playoffs (U) (V1.1) [!]
+- Bust-A-Move (U)
+- Cacoma Knight in Bizyland (U)
+- Cal Ripken Jr. Baseball (U) [!]
+- California Games II (U)
+- Cannondale Cup (U) [!]
+- Capcom's MVP Football (U)
+- Capcom's Soccer Shootout (U)
+- Captain America and The Avengers (U)
+- Captain Commando (U)
+- Captain Novolin (U)
+- Carrier Aces (U)
+- Casper (U)
+- Castlevania - Dracula X (U) [!]
+- Champions World Class Soccer (U)
+- Championship Pool (U)
+- Championship Soccer '94 (U)
+- Chaos Seed
+- Chavez (U)
+- Chavez II (U)
+- Chessmaster, The (U)
+- Chester Cheetah - Too Cool to Fool (U) [!]
+- Chester Cheetah - Wild Wild Quest (U) (59734)
+- Choplifter III (U) (54553)
+- Chou-Genjin 2
+- Chou-Mahou Tairiku Wozz
+- Chrono Trigger (U) [!]
+- Chuck Rock (U)
+- Civilization (U) [!]
+- Classic Kong Complete
+- Clay Fighter (U) [!]
+- Clay Fighter - Tournament Edition (U)
+- Clay Fighter 2 - Judgment Clay (U) [!]
+- Claymates (U) [!]
+- Claymates Demo (U)
+- Cliffhanger (U)
+- Clock Tower
+- Clue (U) [!]
+- College Football USA '97 - The Road to New Orleans (U) [!]
+- College Slam Basketball (U) [!]
+- Combatribes, The (U)
+- Congo's Caper (U)
+- Contra III - The Alien Wars (U) [!]
+- Cool Spot (U) [!]
+- Cool World (U) [!]
+- Crystal Beans - From Dungeon Explorer
+- Cu-On-Pa SFC
+- Cutthroat Island (U) [!]
+- Cyber Knight
+- Cyber Knight II - Chikyuu Teikoku no Yabou
+- Cyber Spin (U) [!]
+- Cybernator (U)
+- Cyborg 009
+- D-Force (U)
+- Daffy Duck - The Marvin Missions (U) [!]
+- Dai 3 Ji - Super Robot Taisen (ENG) # SNES
+- Dai-3-Ji Super Robot Taisen
+- Darius Twin (U) [!]
+- Dark Law - Meaning of Death
+- David Crane's Amazing Tennis (U) [!]
+- Death and Return of Superman, The (U)
+- Demolition Man (U)
+- Demon's Crest (U) [!]
+- Dennis the Menace (U)
+- Der Langrisser
+- Desert Strike - Return to the Gulf (U) [!]
+- Dig & Spike Volleyball (U)
+- Digimon Adventure
+- Dino City (U)
+- Dirt Trax FX (U) [!]
+- Donald Duck and the Magical Hat (Japan + English)
+- Donkey Kong Country (U) (V1.2) [!]
+- Donkey Kong Country - Competition Cartridge (U)
+- Donkey Kong Country 2 - Diddy's Kong Quest (U) (V1.1) [!]
+- Donkey Kong Country 3 - Dixie Kong's Double Trouble (U) [!]
+- Doom (U) [!]
+- Doomsday Warrior (U) [!]
+- DoReMi Fantasy - Milon no DokiDoki Daibouken
+- Dorke & Ymp
+- Dossun! Ganseki Battle
+- Dossun! Ganseki Battle (ENG) # SNES
+- Double Dragon V - The Shadow Falls (U)
+- Dragon - The Bruce Lee Story (U)
+- Dragon Ball Z - Hyper Dimension
+- Dragon Ball Z - Super Butouden
+- Dragon Ball Z - Super Butouden 3
+- Dragon Ball Z - Super Saiya Densetsu
+- Dragon Quest 1 and 2 (ENG) # SNES
+- Dragon Quest 5 - Tenkuu no Hanayome (ENG) # SNES
+- Dragon Quest 6 - Maboroshi no Daichi (ENG) # SNES
+- Dragon Quest I & II
+- Dragon Quest III - Soshite Densetsu e___
+- Dragon Quest V - Tenkuu no Hanayome
+- Dragon Quest VI - Maboroshi no Daichi
+- Dragon View (U) [!]
+- Dragon's Lair (U) [!]
+- Dragon-Ball Z - Hyper Dimension (ENG) # SNES
+- Dragon-Ball Z - Super Butouden (ENG) # SNES
+- Dragon-Ball Z - Super Butouden 3 (ENG) # SNES
+- Dragon-Ball Z - Super Gokuden Totsugeki Hen (ENG) # SNES
+- Dragon-Ball Z - Super Saiyan Densetsu (ENG) # SNES
+- Dragon-Ball-Z - Super Gokuden 2 (ENG) # SNES
+- Drakkhen (U) [!]
+- Dream TV (U)
+- Dual Orb 2 (ENG) # SNES
+- Dual Orb II
+- Dungeon Master (U)
+- E.V.O. Search for Eden (U)
+- Earth Defense Force (USA, Europe) (Switch Online)
+- Earthbound (U) [!]
+- Earthworm Jim (U) [!]
+- Earthworm Jim 2 (U) [!]
+- Eek! The Cat (U)
+- Eien no Filena
+- Elite Soccer (U)
+- Emerald Dragon
+- Emmitt Smith Football (U)
+- Energy Breaker
+- Equinox (U)
+- ESPN Baseball Tonight (U) (29611)
+- ESPN National Hockey Night (U)
+- ESPN Speedworld (U)
+- ESPN Sunday Night NFL (U)
+- Extra Innings (U)
+- F-ZERO (U) [!]
+- F1 Pole Position (U)
+- F1 ROC - Race of Champions (U)
+- F1 ROC II - Race of Champions (U)
+- Faceball 2000 (U) [!]
+- Famicom Tantei Club Part II
+- Family Dog (U) [!]
+- Family Feud (U)
+- Fatal Fury (U)
+- Fatal Fury 2 (U)
+- Fatal Fury Special (U)
+- FEDA - The Emblem of Justice
+- Feda - the Emblem of Justice (ENG) # SNES
+- FIFA 97 - Gold Edition (U) [!]
+- FIFA International Soccer (U) [!]
+- FIFA Soccer 96 (U) [!]
+- Fighter's History (U)
+- Final Fantasy - Mystic Quest (U) (V1.1)
+- Final Fantasy 4 - 10th Anniversary Edition (ENG) # SNES
+- Final Fantasy 6 (ENG) # SNES
+- Final Fantasy II (U) (V1.1)
+- Final Fantasy III (U) (V1.1) [!]
+- Final Fantasy V
+- Final Fight (U)
+- Final Fight 2 (U)
+- Final Fight 3 (U)
+- Final Fight Guy (U)
+- Fire Emblem - Monshou no Nazo
+- Fire Emblem - Seisen no Keifu
+- Fire Emblem - Thracia 776
+- Fire Striker (U)
+- Firepower 2000 (U)
+- First Samurai (U) [!]
+- Flashback - The Quest for Identity (U) [!]
+- Flintstones, The (U)
+- Flintstones, The - The Treasure of Sierra Madrock (U)
+- Flying Hero - Bugyuru no Daibouken
+- Football Fury (U)
+- Foreman For Real (U) [!]
+- Frank Thomas' Big Hurt Baseball (U) [!]
+- Frantic Flea (U) [!]
+- Frogger (U) [!]
+- Front Mission
+- Front Mission - Gun Hazard
+- Front Mission - Gun Hazard (ENG) # SNES
+- Full Throttle Racing (U)
+- Fun 'N Games (U)
+- Funaki Masakatsu Hybrid Wrestler - Tougi Denshou
+- Fushigi no Dungeon 2 - Fuurai no Shiren
+- Gamars Puzzle (Unl)
+- Gekitou Burning Pro Wrestling
+- Gemfire (U)
+- Genghis Khan II - Clan of the Gray Wolf (U)
+- George Foreman's KO Boxing (U) (V1.1)
+- Ghoul Patrol (U)
+- Go Go Ackman
+- Gods (U) [!]
+- Goof Troop (U) [!]
+- Gourmet Squad
+- GP-1 (U)
+- GP-1 Part II (U)
+- Gradius III (U) [!]
+- Great Circus Mystery Starring Mickey & Minnie, The (U)
+- Great Waldo Search, The (U)
+- Gunforce - Battle Fire Engulfed Terror Island (U)
+- Gunple - Gunman's Proof
+- Hagane (U)
+- HAL's Hole in One Golf (U) [!]
+- Hameln no Violin Hiki
+- Hammerlock Wrestling (U)
+- Hardball III (U) [!]
+- Harley's Humongous Adventure (U)
+- Harvest Moon (U)
+- Head-On Soccer (U)
+- Heracles no Eikou III - Kamigami no Chinmoku
+- Hind Strike
+- Hiouden - Mamono-tachi to no Chikai
+- Hit the Ice (U) [!]
+- Holy Umbrella - Dondera no Mubo!!
+- Home Alone (U)
+- Home Alone 2 - Lost in New York (U)
+- Home Improvement (U) [!]
+- Hook (U) (29252)
+- Horai Gakuen no Bouken!
+- Hunt for Red October, The (U) [!]
+- Hurricanes, The (U)
+- Hyper V-Ball (U)
+- HyperZone (U) [!]
+- Ignition Factor, The (U)
+- Illusion of Gaia (U) [!]
+- Imperium (U)
+- Incantation (U)
+- Incredible Crash Dummies, The (U) [!]
+- Incredible Hulk, The (U)
+- Indiana Jones' Greatest Adventures (U) [!]
+- Inindo - Way of the Ninja (U)
+- Inspector Gadget (U)
+- International Superstar Soccer (U) [!]
+- International Superstar Soccer Deluxe (U)
+- International Tennis Tour (U)
+- Irem Skins Game, The (U)
+- Iron Commando
+- Itchy & Scratchy Game, The (U)
+- Izzy's Quest for the Olympic Rings (U) [!]
+- Jack Nicklaus Golf (U)
+- James Bond Jr (U)
+- Jammit (U)
+- Jeopardy! (U)
+- Jeopardy! Deluxe Edition (U)
+- Jeopardy! Sports Edition (U)
+- Jerry Boy
+- Jet Pilot Rising
+- Jetsons, The - Invasion of the Planet Pirates (U)
+- Jim Lee's WildC.A.T.S (U)
+- Jim Power - The Lost Dimension in 3D (U) [!]
+- Jimmy Connors Pro Tennis Tour (U) [!]
+- Jimmy Houston's Bass Tournament U.S.A. (U) [!]
+- Joe & Mac (U) [!]
+- Joe & Mac 2 - Lost in the Tropics (U)
+- John Madden Football '93 (U) (V1.1) [!]
+- John Madden Football (U)
+- JoJo no Kimyou na Bouken
+- JRR Tolkien's The Lord of the Rings - Volume 1 (U) [!]
+- Judge Dredd (U) [!]
+- Jungle Book, The (U)
+- Jungle Strike (U) [!]
+- Jurassic Park (U) (V1.1)
+- Jurassic Park Part 2 - The Chaos Continues (U) [!]
+- Justice League Task Force (U)
+- Jyutei Senki
+- Kablooey (U) [!]
+- Kaite Tsukutte Asoberu - Dezaemon
+- Kawasaki Caribbean Challenge (U) [!]
+- Kawasaki Superbike Challenge (U)
+- Ken Griffey Jr. Presents Major League Baseball (U)
+- Ken Griffey Jr.'s Winning Run (U) [!]
+- Kendo Rage (U) [!]
+- Kid Klown in Crazy Chase (U) [!]
+- Kidou Butoden G-Gundam
+- Kidou Senshi Gundam - Cross Dimension 0079
+- Kidou Senshi V-Gundam
+- Killer Instinct (U) (V1.1) [!]
+- King Arthur & The Knights of Justice (U) [!]
+- King Arthur's World (U) [!]
+- King of Dragons, The (U) [!]
+- King of Fighters 2000
+- King of the Monsters (U)
+- King of the Monsters 2 (U) [!]
+- Kirby Super Star (U) [!]
+- Kirby's Avalanche (U) [!]
+- Kirby's Dream Course (U) [!]
+- Kirby's Dream Land 3 (U)
+- Knights of the Round (U)
+- Koryuu no Mimi
+- Kouryu Densetsu Villgust - Kieta Shoujo
+- Krusty's Super Fun House (U) (V1.1)
+- Kunio-kun no Dodge Ball - Zenin Shuugou!
+- Kuusou Kagaku Sekai Gulliver Boy
+- Kyle Petty's No Fear Racing (U)
+- Lagoon (U) [!]
+- Lamborghini - American Challenge (U)
+- Last Action Hero (U)
+- Lawnmower Man, The (U) [!]
+- Legend (U) (16725)
+- Legend of The Mystical Ninja, The (U) [!]
+- Legend of Zelda, The - A Link to the Past (U) [!]
+- Lemmings (U) (V1.1) [!]
+- Lemmings 2 - The Tribes (U)
+- Lennus II - Fuuin no Shito
+- Lester the Unlikely (U)
+- Lethal Enforcers (U)
+- Lethal Weapon (U) [!]
+- Liberty or Death (U) [!]
+- Lion King, The (U)
+- Little Magic
+- Live A Live
+- Lock On (U)
+- Lodoss-tou Senki
+- Looney Tunes B-Ball (U)
+- Lost Vikings II, The (U) [!]
+- Lost Vikings, The (U) [!]
+- Lufia & The Fortress of Doom (U) [!]
+- Lufia II - Rise of the Sinistrals (U)
+- M.A.C.S. Basic Rifle Marksmanship
+- M.A.C.S. Basic Rifle Simulator (U) [!]
+- Madden NFL '94 (U) [!]
+- Madden NFL '95 (U) [!]
+- Madden NFL '96 (U) [!]
+- Madden NFL '97 (U) [!]
+- Madden NFL '98 (U)
+- Madou Monogatari - Hanamaru Daiyouchi Enji
+- Magic Boy (U) [!]
+- Magic Johnson's Super Slam Dunk (U)
+- Magic Sword (U)
+- Magical Drop
+- Magical Pop'n
+- Magical Quest Starring Mickey Mouse, The (U) [!]
+- Magna Braban - Henreki no Yuusha
+- Mahou Kishi Rayearth
+- Mahou Poipoi Poitto!
+- Majyuuou
+- Mario is Missing! (U)
+- Mario Paint (JU) [!]
+- Mario's Early Years - Fun With Letters (U)
+- Mario's Early Years - Fun With Numbers (U)
+- Mario's Early Years - Preschool Fun (U)
+- Mario's Time Machine (U) [!]
+- Mark Davis' The Fishing Master (U) [!]
+- Marvel Super Heroes - War of the Gems (U)
+- Marvelous - Mouhitotsu no Takarajima
+- Mary Shelley's Frankenstein (U)
+- Mask, The (U)
+- Math Blaster - Episode 1 (U)
+- Maui Mallard in Cold Shadow (U)
+- Mecarobot Golf (U)
+- Mechwarrior (U) [!]
+- Mechwarrior 3050 (U) [!]
+- Mega Man VII (U)
+- Mega Man X (U) (V1.1) [!]
+- Mega Man X 2 (U) [!]
+- Mega Man X 3 (U) [!]
+- Mega Man's Soccer (U) [!]
+- Metal Combat - Falcon's Revenge (U) [!]
+- Metal Marines (U)
+- Metal Max Returns
+- Metal Morph (U)
+- Metal Warriors (U)
+- Michael Andretti's Indy Car Challenge (U)
+- Michael Jordan - Chaos in the Windy City (U) [!]
+- Mickey Mania (U) [!]
+- Mickey to Donald - Magical Adventure 3
+- Mickey's Playtown Adventure - A Day of Discovery! (U)
+- Mickey's Ultimate Challenge (U)
+- Micro Machines (U) [!]
+- Might and Magic III - Isles of Terra (U)
+- Mighty Max (U)
+- Mighty Morphin Power Rangers (U)
+- Mighty Morphin Power Rangers - The Fighting Edition (U)
+- Mighty Morphin Power Rangers - The Movie (U)
+- Miracle Girls
+- Miracle Piano Teaching System, The (U) [!]
+- MLBPA Baseball (U) [!]
+- MoHawk & Headphone Jack (U) [!]
+- Monopoly (U) (V1.1)
+- Monstania
+- Monstania (ENG) # SNES
+- Mortal Kombat (U) [!]
+- Mortal Kombat 3 (U) [!]
+- Mortal Kombat II (U) (V1.1)
+- Mountain Bike Rally (U) [!]
+- Mr. Do! (U)
+- Mr. Nutz (U)
+- Ms. Pac-Man (U)
+- Musya (U) [!]
+- Mutant Chronicles - Doom Troopers (U) [!]
+- Mystic Ark
+- Nangoku Shounen Papuwa-kun
+- Natsume Championship Wrestling (U) [!]
+- NBA All-Star Challenge (U)
+- NBA Give 'N Go (U)
+- NBA Hang Time (U)
+- NBA Jam (U) (V1.1) [!]
+- NBA Jam - Tournament Edition (U) [!]
+- NBA Live '95 (U) [!]
+- NBA Live '96 (U) [!]
+- NBA Live '97 (U) [!]
+- NBA Live '98 (U) [!]
+- NBA Showdown (U)
+- NCAA Basketball (U) (V1.1) [!]
+- NCAA Final Four Basketball (U) [!]
+- NCAA Football (U)
+- Nekketsu Tairiku - Burning Heroes
+- Network Q Rally (U) (NG-Dump Known)
+- Neugier - Umi to Kaze no Kodou
+- New Super Mario Land
+- Newman-Hass Indy Car Featuring Nigel Mansell (U)
+- NFL Football (U)
+- NFL Quarterback Club '96 (U) [!]
+- NFL Quarterback Club (U)
+- NHL '94 (U) [!]
+- NHL '95 (U) [!]
+- NHL '96 (U) [!]
+- NHL '97 (U) [!]
+- NHL '98 (U)
+- NHL Stanley Cup (U) [!]
+- NHLPA Hockey '93 (U) [!]
+- Nickelodeon GUTS (U)
+- Nigel Mansell's World Championship Racing (U) [!]
+- Nightmare Busters
+- Ninja Gaiden Trilogy (U) [!]
+- Ninja Warriors, The (U)
+- No Escape (U)
+- Nobunaga's Ambition (U)
+- Nobunaga's Ambition - Lord of Darkness (U)
+- Nolan Ryan's Baseball (U) [!]
+- Nosferatu (U)
+- Obitus (U) [!]
+- Ogre Battle - The March of the Black Queen (U) [!]
+- Olympic Summer Games 96 (U)
+- On the Ball (U) [!]
+- Operation Europe - Path to Victory 1939-45 (U)
+- Operation Logic Bomb (U) [!]
+- Operation Thunderbolt (U)
+- Oscar (U) [!]
+- Out of This World (U) [!]
+- Out to Lunch (U)
+- Outlander (U)
+- Pac-Attack (U)
+- Pac-in-Time (U) [!]
+- Pac-Man 2 - The New Adventures (U) [!]
+- Pacific Theater of Operations (U) [!]
+- Pacific Theater of Operations II (U)
+- Packy & Marlon (U)
+- Pagemaster, The (U)
+- Paladin's Quest (U) [!]
+- Panel de Pon
+- Panic in Nakayoshi World
+- Paperboy 2 (U) [!]
+- Peace Keepers, The (U) [!]
+- Pebble Beach Golf Links (U)
+- PGA European Tour (U) [!]
+- PGA Tour 96 (U) [!]
+- PGA Tour Golf (U)
+- Phalanx - The Enforce Fighter A-144 (U) [!]
+- Phantom 2040 (U)
+- Pieces (U)
+- Pilotwings (U) [!]
+- Pinball Dreams (U)
+- Pinball Fantasies (U)
+- Pink Panther in Pink Goes to Hollywood (U)
+- Pinocchio (U)
+- Pirates of Dark Water, The (U)
+- Pit Fighter (U)
+- Pitfall - The Mayan Adventure (U)
+- Plok! (U) [!]
+- Pocket Monsters
+- Pocky & Rocky (U) [!]
+- Pocky & Rocky 2 (U) [!]
+- Pokemon Gold Silver
+- Pokemon Stadium
+- Pop'n TwinBee (USA, Europe) (Switch Online)
+- Popeye Ijiwaru Majo - Sea Hag no Maki
+- Populous (U) [!]
+- Porky Pig's Haunted Holiday (U) [!]
+- Power Drive (U) (Beta) (M5)
+- Power Instinct (U)
+- Power Moves (U)
+- Power Piggs of the Dark Age (U) [!]
+- Power Rangers Zeo - Battle Racers (U)
+- Prehistorik Man (U) [!]
+- Primal Rage (U) [!]
+- Prince of Persia (U)
+- Prince of Persia 2 - The Shadow & The Flame (U)
+- Pro Quarterback (U)
+- Pro Sport Hockey (U)
+- Push-Over (U)
+- Q-bert 3 (U) [!]
+- R-Type III (USA) (Virtual Console)
+- R-Type III - The Third Lightning (U) [!]
+- Race Drivin' (U) [!]
+- Radical Dreamers - Nusumenai Houseki
+- Radical Rex (U)
+- Raiden Trad (U) [!]
+- Rampart (U)
+- Ranma 1-2 - Akanekodan Teki Hihou
+- Ranma Nibunnoichi - Hard Battle (U) [!]
+- Rap Jam - Volume One (U) [!]
+- Realm (U)
+- Redline F-1 Racer (U)
+- Relief Pitcher (U)
+- Ren & Stimpy Show, The - Buckeroos! (U) [!]
+- Ren & Stimpy Show, The - Fire Dogs (U)
+- Ren & Stimpy Show, The - Time Warp (U)
+- Ren & Stimpy Show, The - Veediots! (U)
+- Rendering Ranger - R2
+- Revolution X (U)
+- Rex Ronan - Experimental Surgeon (U)
+- RHI Roller Hockey '95 (U) (NG-Dump Known)
+- Riddick Bowe Boxing (U)
+- Rise of the Phoenix (U)
+- Rival Turf (U)
+- Road Riot 4WD (U) (6361)
+- Road Runner's Death Valley Rally (U) [!]
+- Robocop 3 (U)
+- Robocop Versus The Terminator (U)
+- Robotrek (U) [!]
+- Rock N' Roll Racing (U) [!]
+- Rocketeer, The (U)
+- Rockman & Forte
+- Rocko's Modern Life - Spunky's Dangerous Day (U)
+- Rocky Rodent (U)
+- Roger Clemens' MVP Baseball (U) [!]
+- Romance of the Three Kingdoms II (U)
+- Romance of the Three Kingdoms III - Dragon of Destiny (U)
+- Romance of the Three Kingdoms IV - Wall of Fire (U)
+- RPM Racing (U)
+- Rudra no Hihou
+- Run Saber (U) [!]
+- Ryuuki Heidan Danzarubu
+- Sailor-Moon (ENG) # SNES
+- Sailor-Moon RPG - Another Story (ENG) # SNES
+- Samurai Shodown (U)
+- Sanrio World Smash Ball!
+- Saturday Night Slam Masters (U)
+- Scooby-Doo (U) [!]
+- SeaQuest DSV (U)
+- Secret of Evermore (U) [!]
+- Secret of Mana (U) [!]
+- Secret of the Stars (U)
+- Seiken Densetsu 3
+- Sengoku Denshou
+- Shadow, The (U)
+- Shadowrun (U) [!]
+- Shanghai II - Dragon's Eye (U) [!]
+- Shaq Fu (U) [!]
+- Shien's Revenge (U)
+- Shin Kidou Senki Gundam W - Endless Duel
+- Shin Megami Tensei
+- Shin Megami Tensei II
+- Shin Nekketsu Kouha - Kunio-tachi no Banka
+- Shodai Nekketsu Kouha Kunio-kun
+- Side Pocket (U)
+- Silva Saga II - The Legend of Light and Darkness
+- Sim Ant (U) (49046)
+- Sim City (U) [!]
+- Sim City 2000 (U)
+- Sim Earth - The Living Planet (U) [!]
+- Simpsons, The - Bart's Nightmare (U) [!]
+- Sink or Swim (U)
+- Skuljagger - Revolt of the Westicans (U)
+- Sky Blazer (U) [!]
+- Smart Ball (U)
+- SNES Test Program (U)
+- Snoopy Concert
+- Snow White in Happily Ever After (U)
+- Socks the Cat Rocks the Hill
+- Soldiers of Fortune (U) [!]
+- Sonic Blast Man (U) [!]
+- Sonic Blast Man II (U)
+- Sonic the Hedgehog (Unl)
+- SOS (U) [!]
+- Soul Blade
+- Soul Blazer (U) [!]
+- Soul Edge VS Samurai Spirits
+- Space Ace (U)
+- Space Football - One on One (U)
+- Space Invaders (U) [!]
+- Space Megaforce (U) [!]
+- Spanky's Quest (U)
+- Sparkster (U)
+- Spawn (U) [!]
+- Spectre (U) [!]
+- Speed Racer in My Most Dangerous Adventures (U)
+- Speedy Gonzales - Los Gatos Bandidos (U) (V1.1) [!]
+- Spell Craft (U)
+- Spider-Man & Venom - Maximum Carnage (U)
+- Spider-Man & Venom - Separation Anxiety (U)
+- Spider-Man (U)
+- Spider-Man and the X-Men in Arcade's Revenge (U)
+- Spindizzy Worlds (U)
+- Sporting News Power Baseball, The (U)
+- Sports Illustrated Championship Football & Baseball (U) [!]
+- Star Fox (U) (V1.2) [!]
+- Star Fox 2 (USA)
+- Star Ocean
+- Star Ocean # SNES
+- Star Trek - Deep Space Nine - Crossroads of Time (U) [!]
+- Star Trek - Starfleet Academy Starship Bridge Simulator (U)
+- Star Trek - The Next Generation - Future's Past (U) [!]
+- Stargate (U) [!]
+- Steel Talons (U)
+- Sterling Sharpe - End 2 End (U)
+- Stone Protectors (U)
+- Street Combat (U) [!]
+- Street Fighter Alpha 2 (U) [!]
+- Street Fighter EX plus Alpha
+- Street Fighter II (USA) (Virtual Console)
+- Street Fighter II - The World Warrior (U) [!]
+- Street Fighter II Turbo (USA) (Rev 1) (Virtual Console)
+- Street Fighter II Turbo - Hyper Fighting (U) [!]
+- Street Fighter III - Super Version
+- Street Hockey '95 (U) [!]
+- Street Racer (U)
+- Strike Gunner (U) [!]
+- Stunt Race FX (U) [!]
+- Sunset Riders (U) [!]
+- Super 3D Noah's Ark
+- Super Adventure Island (U) [!]
+- Super Adventure Island II (U) [!]
+- Super Alfred Chicken (U) [!]
+- Super Aquatic Games, The (U)
+- Super Back to the Future Part II
+- Super Baseball Simulator 1.000 (U) [!]
+- Super Bases Loaded (U) [!]
+- Super Bases Loaded 2 (U)
+- Super Bases Loaded 3 - License to Steal (U) (V1.0) [!]
+- Super Batter Up (U)
+- Super Battleship (U)
+- Super Battletank - War in the Gulf (U) (V1.1) [!]
+- Super Battletank 2 (U)
+- Super Black Bass (U) [!]
+- Super Bomberman (U)
+- Super Bomberman 2 (U) [!]
+- Super Bomberman 4
+- Super Bonk (U)
+- Super Boss Gaiden
+- Super Bowling (U)
+- Super Buster Bros. (U) (V1.1)
+- Super Caesars Palace (U) [!]
+- Super Castlevania IV (U) [!]
+- Super Chase H.Q. (U)
+- Super Conflict - The Mideast (U) [!]
+- Super Double Dragon (U)
+- Super Earth Defense Force (U) [!]
+- Super Fire Pro Wrestling - Queen's Special
+- Super Fire Pro Wrestling X Premium
+- Super Gachapon World - SD Gundam X
+- Super Game Boy (UE) (V1.2) [!]
+- Super Ghouls 'N Ghosts (U) [!]
+- Super Goal! (U)
+- Super Goal! 2 (U)
+- Super Godzilla (U)
+- Super Gussun Oyoyo 2
+- Super High Impact (U)
+- Super James Pond (U)
+- Super Mario All-Stars (U) [!]
+- Super Mario All-Stars + Super Mario World (U) [!]
+- Super Mario Kart (U) [!]
+- Super Mario RPG - Legend of the Seven Stars (U) [!]
+- Super Mario War HOL (Hack)
+- Super Mario World (SMB1 Edition)
+- Super Mario World (SMB3 Edition)
+- Super Mario World (U) [!]
+- Super Mario World 2 - Yoshi's Island (U) (M3) (V1.1)
+- Super Metroid (JU) [!]
+- Super NES Super Scope 6 (U) [!]
+- Super Ninja Boy (U)
+- Super Noah's Ark 3D (U) [!]
+- Super Nova (U)
+- Super Off Road (U) [!]
+- Super Off Road - The Baja (U)
+- Super Pinball - Behind the Mask (U) [!]
+- Super Play Action Football (U) [!]
+- Super Punch-Out!! (U) [!]
+- Super Putty (U)
+- Super Puyo Puyo 2 (USA, Europe) (Ja) (Switch Online)
+- Super Puyo Puyo Tsuu
+- Super R-Type (U) [!]
+- Super R.B.I. Baseball (U)
+- Super Shadow of the Beast (U)
+- Super Slapshot (U)
+- Super Smash T.V. (U)
+- Super Soccer (U)
+- Super Soccer Champ (U) [!]
+- Super Solitaire (U)
+- Super Star Force (U) [t1S]
+- Super Star Wars (U) (V1.1) [!]
+- Super Star Wars - Return of the Jedi (U) (V1.1) [!]
+- Super Star Wars - The Empire Strikes Back (U) (V1.1) [!]
+- Super Street Fighter II (USA) (Rev 1) (Virtual Console)
+- Super Street Fighter II - The New Challengers (U)
+- Super Strike Eagle (U) [!]
+- Super Tennis (U) [!]
+- Super Troll Islands (U)
+- Super Turrican (U)
+- Super Turrican 2 (U) [!]
+- Super Ultra Baseball 2
+- Super Valis IV (U)
+- Super Widget (U)
+- Suzuka 8 Hours (U)
+- SWAT Kats - The Radical Squadron (U) [!]
+- Sydney Hunter and the Caverns of Death
+- Syndicate (U)
+- T2 - The Arcade Game (U)
+- Tactics Ogre - Let Us Cling Together
+- Tales of Phantasia
+- Tales of Phantasia (ENG) # SNES
+- Taz-Mania (U) [!]
+- Tecmo Super Baseball (U)
+- Tecmo Super Bowl (U) [!]
+- Tecmo Super Bowl II - Special Edition (U)
+- Tecmo Super Bowl III - Final Edition (U) [!]
+- Tecmo Super NBA Basketball (U)
+- Teenage Mutant Ninja Turtles - Tournament Fighters (U)
+- Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]
+- Tekken 2
+- Tenchi Muyou! - Game Hen
+- Tenshi no Uta - Shiroki Tsubasa no Inori
+- Terminator 2 - Judgment Day (U) [!]
+- Terminator, The (U)
+- Test Drive II - The Duel (U) (24291)
+- Tetris & Dr. Mario (U) [!]
+- Tetris 2 (U) (V1.1) [!]
+- Tetris Attack (U) [!]
+- Thomas the Tank Engine and Friends (U) [!]
+- Thunder Spirits (U) [!]
+- Tick, The (U) [!]
+- Time Trax (U)
+- Timecop (U) [!]
+- TimeSlip (U) [!]
+- Timon & Pumbaa's Jungle Games (U) [!]
+- Tin Star (U) [!]
+- Tiny Toon Adventures - Buster Busts Loose! (U) [!]
+- Tiny Toon Adventures - Wacky Sports Challenge (U)
+- TKO Super Championship Boxing (U)
+- TNN Bass Tournament of Champions (U)
+- Tom & Jerry (U)
+- Tony Meola's Sidekicks Soccer (U)
+- Top Gear (U) [!]
+- Top Gear 2 (U) [!]
+- Top Gear 3000 (U) [!]
+- Torneko no Daibouken - Fushigi no Dungeon
+- Total Carnage (U) [!]
+- Toy Story (U) [!]
+- Toys (U) [!]
+- Treasure Hunter G
+- Troddlers (U) [!]
+- Troy Aikman NFL Football (U) [!]
+- True Lies (U) [!]
+- Tuff E Nuff (U) [!]
+- Turn and Burn - No-Fly Zone (U) [!]
+- TwinBee - Rainbow Bell Adventure
+- Twisted Tales of Spike McFang, The (U)
+- U.N. Squadron (U) [!]
+- Uchuu no Kishi - Tekkaman Blade
+- Ultima - Runes of Virtue II (U) [!]
+- Ultima VI - The False Prophet (U)
+- Ultima VII - The Black Gate (U)
+- Ultimate Fighter (U)
+- Ultimate Mortal Kombat 3 (U)
+- Ultra Baseball Jitsumeiban
+- Ultraman - Towards the Future (U) [!]
+- Umihara Kawase
+- Uncharted Waters (U)
+- Uncharted Waters - New Horizons (U)
+- Unholy Night - The Darkness Hunter
+- Uniracers (U) [!]
+- Universal Soldier (U)
+- Untouchables, The (U)
+- Urban Strike (U) [!]
+- Utopia - The Creation of a Nation (U) [!]
+- Vegas Stakes (U) [!]
+- Virtual Bart (U) [!]
+- Virtual Soccer (U) (NG-Dump Known)
+- Vortex (U) [!]
+- Waialae Country Club (U)
+- War 2410 (U)
+- War 3010 - The Revolution (U)
+- Wario's Woods (U) [!]
+- Warlock (U) [!]
+- WarpSpeed (U) [!]
+- Wayne Gretzky and the NHLPA All-Stars (U) [!]
+- Wayne's World (U) [!]
+- WCW Super Brawl Wrestling (U) [!]
+- We're Back! - A Dinosaur's Story (U)
+- Weapon Lord (U) [!]
+- Wheel of Fortune (U)
+- Wheel of Fortune - Deluxe Edition (U)
+- Where in the World is Carmen Sandiego (U)
+- Where in Time is Carmen Sandiego (U) [!]
+- Whizz (U) [!]
+- Wicked 18 Golf (U)
+- Wild Guns (U)
+- WildSnake (U) [!]
+- Wing Commander (U) [!]
+- Wing Commander - The Secret Missions (U)
+- Wings 2 - Aces High (U) [!]
+- Winter Extreme Skiing and Snowboarding (U) [!]
+- Winter Olympic Games - Lillehammer '94 (U) (M8)
+- Wizard of Oz, The (U) [!]
+- Wizardry I-II-III - Story of Llylgamyn
+- Wizardry V - Heart of the Maelstrom (U) [!]
+- Wolf Child (U) [!]
+- Wolfenstein 3D (U)
+- Wolverine - Adamantium Rage (U) [!]
+- Wonder Project J - Kikai no Shonen Pino
+- Wordtris (U) [!]
+- World Cup USA 94 (U)
+- World Heroes (U) [!]
+- World Heroes 2 (U) [!]
+- World League Basketball (UE) [!]
+- World League Soccer (U) [!]
+- World Soccer 94 - Road to Glory (U)
+- WWF Raw (U) [!]
+- WWF Royal Rumble (U)
+- WWF Super WrestleMania (U) [!]
+- WWF WrestleMania - The Arcade Game (U) [!]
+- X Zone (U)
+- X-Kaliber 2097 (U)
+- X-Men - Mutant Apocalypse (U)
+- X-Men vs. Street Fighter
+- Xardion (U) [!]
+- Yogi Bear (U) [!]
+- Yoshi's Cookie (U)
+- Yoshi's Safari (U) [!]
+- Young Merlin (U)
+- Ys 4 - Mask of the Sun (ENG) # SNES
+- Ys III - Wanderers from Ys (U) [!]
+- Ys IV - Mask of the Sun
+- Ys V - Ushinawareta Suna no Miyako Kefin
+- Yume Meikyuu - Kigurumi Daibouken
+- Zero the Kamikaze Squirrel (U) [!]
+- Zombies Ate My Neighbors (U) [!]
+- Zool (U)
+- Zoop (U) [!]
+
+
+
