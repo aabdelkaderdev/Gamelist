@@ -3,7 +3,7 @@
 > Generated on 2026-10-06.
 > Total: 3891 games across 11 platforms.
 
-## PC (190)
+## PC (195)
 
 - A Plague Tale - Innocence
 - A Plague Tale - Requiem
